@@ -1,6 +1,5 @@
 import pandas as pd
 
-
 # TODO: Verify updated analytics code works with dashboard
 def class_performance(df: pd.DataFrame) -> pd.DataFrame:
     performance = df.groupby("class_period").agg(
