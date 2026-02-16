@@ -1,0 +1,1297 @@
+student_id,student_name,class_period,assignment_name,assignment_type,date,score,max_score,submitted
+202600711,Amelia Wilson,3,Algorithm Quiz,Quiz,2026-03-03,,20,False
+202600429,Amelia Williams,5,Mini Project,Project,2026-03-05,39.0,50,True
+202600304,Ava Wilson,1,Lists and Arrays,Homework,2026-02-26,10.0,10,True
+202600992,Jack Brown,3,Function Design,Homework,2026-02-19,10.0,10,True
+202600892,Mia Williams,3,Loops Lab,Lab,2026-01-13,18.0,20,True
+202600969,James Martinez,6,Function Design,Homework,2026-01-15,8.0,10,True
+202600343,Lucas Smith,6,Function Design,Homework,2026-02-19,8.0,10,True
+202600751,Jack Miller,1,Code Tracing Quiz,Quiz,2026-02-03,16.0,20,True
+202600274,Emma Miller,3,Data Structures Intro,Homework,2026-02-05,8.0,10,True
+202600787,Lucas Brown,4,Algorithm Quiz,Quiz,2026-03-03,14.0,20,True
+202600498,Jack Smith,2,Debugging Challenge,Lab,2026-01-20,15.0,20,True
+202600969,James Martinez,6,Conditionals Exercise,Homework,2026-02-12,9.0,10,True
+202600343,Lucas Smith,6,Mini Project,Project,2026-01-29,50.0,50,True
+202600321,Evelyn Lopez,3,Loops Lab,Lab,2026-01-13,18.0,20,True
+202600846,Elijah Gonzalez,1,Mini Project,Project,2026-01-29,44.0,50,True
+202600129,Benjamin Miller,5,Data Structures Intro,Homework,2026-02-05,,10,False
+202600321,Evelyn Lopez,3,Function Design,Homework,2026-02-19,9.0,10,True
+202600117,Charlotte Thomas,4,Algorithm Quiz,Quiz,2026-01-27,18.0,20,True
+202600975,Jack Wilson,5,Conditionals Exercise,Homework,2026-02-12,8.0,10,True
+202600664,Emma Johnson,1,Code Tracing Quiz,Quiz,2026-02-03,18.0,20,True
+202600789,Amelia Williams,3,Function Design,Homework,2026-02-19,10.0,10,True
+202600818,Jack Martinez,4,Mini Project,Project,2026-01-29,39.0,50,True
+202600977,Scarlett Miller,5,Data Structures Intro,Homework,2026-02-05,6.0,10,True
+202600274,Emma Miller,3,Function Design,Homework,2026-01-15,,10,False
+202601000,Noah Hernandez,3,Variables Practice,Homework,2026-02-10,7.0,10,True
+202600498,Jack Smith,2,Loops Lab,Lab,2026-01-13,14.0,20,True
+202600368,Emma Smith,2,Variables Practice,Homework,2026-02-10,8.0,10,True
+202600724,Henry Miller,4,Variables Practice,Homework,2026-02-10,8.0,10,True
+202600726,James Gonzalez,3,Algorithm Quiz,Quiz,2026-03-03,15.0,20,True
+202600229,Noah Johnson,2,Algorithm Quiz,Quiz,2026-01-27,18.0,20,True
+202600818,Jack Martinez,4,Lists and Arrays,Homework,2026-02-26,8.0,10,True
+202600174,Olivia Lopez,5,Function Design,Homework,2026-02-19,7.0,10,True
+202600081,Daniel Garcia,6,Algorithm Quiz,Quiz,2026-03-03,15.0,20,True
+202600414,Emma Garcia,2,Code Tracing Quiz,Quiz,2026-02-03,17.0,20,True
+202600229,Noah Johnson,2,Function Design,Homework,2026-02-19,10.0,10,True
+202600751,Jack Miller,1,Function Design,Homework,2026-02-19,7.0,10,True
+202600117,Charlotte Thomas,4,Data Structures Intro,Homework,2026-02-05,8.0,10,True
+202600834,Liam Anderson,5,Function Design,Homework,2026-02-19,7.0,10,True
+202600254,Ella Hernandez,1,Conditionals Exercise,Homework,2026-01-08,7.0,10,True
+202601009,Emma Anderson,6,Code Tracing Quiz,Quiz,2026-02-03,,20,False
+202600806,Emma Lopez,5,Debugging Challenge,Lab,2026-01-20,17.0,20,True
+202600692,Elijah Martinez,3,Lists and Arrays,Homework,2026-01-22,10.0,10,True
+202600372,Benjamin Jones,4,Algorithm Quiz,Quiz,2026-01-27,17.0,20,True
+202600833,Liam Brown,4,Mini Project,Project,2026-03-05,41.0,50,True
+202600372,Benjamin Jones,4,Data Structures Intro,Homework,2026-02-05,7.0,10,True
+202600321,Evelyn Lopez,3,Variables Practice,Homework,2026-02-10,7.0,10,True
+202600371,Harper Williams,6,Function Design,Homework,2026-02-19,7.0,10,True
+202600454,Lucas Jones,2,Loops Lab,Lab,2026-01-13,17.0,20,True
+202600889,Liam Wilson,4,Lists and Arrays,Homework,2026-02-26,,10,False
+202600692,Elijah Martinez,3,Variables Practice,Homework,2026-01-06,9.0,10,True
+202600747,Lucas Anderson,4,Lists and Arrays,Homework,2026-01-22,7.0,10,True
+202601016,Scarlett Thomas,4,Debugging Challenge,Lab,2026-02-24,19.0,20,True
+202600274,Emma Miller,3,Variables Practice,Homework,2026-02-10,7.0,10,True
+202600129,Benjamin Miller,5,Algorithm Quiz,Quiz,2026-01-27,,20,False
+202600595,Sophia Anderson,2,Loops Lab,Lab,2026-01-13,,20,False
+202600117,Jack Smith,1,Code Tracing Quiz,Quiz,2026-02-03,,20,False
+202600323,Jack Anderson,5,Conditionals Exercise,Homework,2026-02-12,8.0,10,True
+202600326,Scarlett Miller,4,Function Design,Homework,2026-02-19,8.0,10,True
+202600129,Benjamin Miller,5,Debugging Challenge,Lab,2026-02-24,17.0,20,True
+202600454,Lucas Jones,2,Debugging Challenge,Lab,2026-02-24,18.0,20,True
+202600716,Sophia Anderson,6,Mini Project,Project,2026-03-05,42.0,50,True
+202600321,Evelyn Lopez,3,Algorithm Quiz,Quiz,2026-01-27,,20,False
+202600274,Emma Miller,3,Mini Project,Project,2026-01-29,,50,False
+202601009,Emma Anderson,6,Variables Practice,Homework,2026-01-06,10.0,10,True
+202600724,Henry Miller,4,Debugging Challenge,Lab,2026-02-24,15.0,20,True
+202600343,Lucas Smith,6,Variables Practice,Homework,2026-02-10,6.0,10,True
+202600581,Henry Smith,5,Lists and Arrays,Homework,2026-01-22,6.0,10,True
+202600969,James Martinez,6,Lists and Arrays,Homework,2026-01-22,8.0,10,True
+202600789,Amelia Williams,3,Data Structures Intro,Homework,2026-02-05,6.0,10,True
+202600674,Daniel Thomas,2,Algorithm Quiz,Quiz,2026-01-27,18.0,20,True
+202600368,Emma Smith,2,Function Design,Homework,2026-02-19,9.0,10,True
+202600117,Charlotte Thomas,4,Debugging Challenge,Lab,2026-02-24,16.0,20,True
+202601016,Scarlett Thomas,4,Conditionals Exercise,Homework,2026-02-12,8.0,10,True
+202600581,Henry Smith,5,Code Tracing Quiz,Quiz,2026-02-03,19.0,20,True
+202600517,Benjamin Jones,3,Variables Practice,Homework,2026-01-06,8.0,10,True
+202600254,Ella Hernandez,1,Variables Practice,Homework,2026-02-10,7.0,10,True
+202600959,Evelyn Williams,4,Conditionals Exercise,Homework,2026-01-08,8.0,10,True
+202600045,Noah Brown,1,Algorithm Quiz,Quiz,2026-01-27,12.0,20,True
+202600618,Harper Johnson,1,Debugging Challenge,Lab,2026-02-24,18.0,20,True
+202600618,Harper Johnson,1,Variables Practice,Homework,2026-01-06,7.0,10,True
+202601016,Scarlett Thomas,4,Function Design,Homework,2026-02-19,9.0,10,True
+202600973,Benjamin Smith,2,Loops Lab,Lab,2026-02-17,14.0,20,True
+202600973,Benjamin Smith,2,Algorithm Quiz,Quiz,2026-03-03,15.0,20,True
+202600326,Olivia Brown,4,Algorithm Quiz,Quiz,2026-01-27,15.0,20,True
+202600711,Amelia Wilson,3,Function Design,Homework,2026-01-15,8.0,10,True
+202600536,Ava Gonzalez,6,Lists and Arrays,Homework,2026-01-22,6.0,10,True
+202600833,Liam Brown,4,Lists and Arrays,Homework,2026-01-22,9.0,10,True
+202600229,Noah Johnson,2,Variables Practice,Homework,2026-01-06,9.0,10,True
+202600716,Sophia Anderson,6,Variables Practice,Homework,2026-01-06,7.0,10,True
+202600789,Amelia Williams,3,Variables Practice,Homework,2026-01-06,9.0,10,True
+202600675,Evelyn Martinez,5,Algorithm Quiz,Quiz,2026-03-03,15.0,20,True
+202600326,Scarlett Miller,4,Lists and Arrays,Homework,2026-02-26,8.0,10,True
+202600716,Sophia Anderson,6,Variables Practice,Homework,2026-02-10,5.0,10,True
+202600321,Evelyn Lopez,3,Function Design,Homework,2026-01-15,8.0,10,True
+202600117,Jack Smith,1,Variables Practice,Homework,2026-02-10,7.0,10,True
+202600893,Mia Hernandez,2,Function Design,Homework,2026-01-15,8.0,10,True
+202600892,Mia Williams,3,Algorithm Quiz,Quiz,2026-01-27,,20,False
+202600969,James Martinez,6,Lists and Arrays,Homework,2026-02-26,9.0,10,True
+202600240,Olivia Gonzalez,1,Debugging Challenge,Lab,2026-02-24,19.0,20,True
+202600889,Liam Wilson,4,Data Structures Intro,Homework,2026-02-05,8.0,10,True
+202600977,Scarlett Miller,5,Debugging Challenge,Lab,2026-01-20,18.0,20,True
+202600044,Jack Brown,1,Conditionals Exercise,Homework,2026-01-08,6.0,10,True
+202600770,James Brown,1,Loops Lab,Lab,2026-01-13,13.0,20,True
+202600368,Emma Smith,2,Data Structures Intro,Homework,2026-02-05,9.0,10,True
+202600889,Liam Wilson,4,Function Design,Homework,2026-01-15,9.0,10,True
+202600045,Noah Brown,1,Debugging Challenge,Lab,2026-01-20,15.0,20,True
+202600992,Jack Brown,3,Mini Project,Project,2026-03-05,50.0,50,True
+202600297,Liam Gonzalez,2,Variables Practice,Homework,2026-02-10,7.0,10,True
+202600240,Olivia Gonzalez,1,Debugging Challenge,Lab,2026-01-20,15.0,20,True
+202600731,Ella Hernandez,6,Loops Lab,Lab,2026-02-17,17.0,20,True
+202600846,Elijah Gonzalez,1,Function Design,Homework,2026-01-15,7.0,10,True
+202600454,Lucas Jones,2,Function Design,Homework,2026-02-19,9.0,10,True
+202600674,Daniel Thomas,2,Loops Lab,Lab,2026-02-17,16.0,20,True
+202600517,Benjamin Jones,3,Conditionals Exercise,Homework,2026-02-12,7.0,10,True
+202600498,Jack Smith,2,Mini Project,Project,2026-01-29,45.0,50,True
+202600536,Ava Gonzalez,6,Loops Lab,Lab,2026-02-17,16.0,20,True
+202600992,Jack Brown,3,Debugging Challenge,Lab,2026-02-24,15.0,20,True
+202600081,Daniel Garcia,6,Lists and Arrays,Homework,2026-02-26,,10,False
+202600889,Liam Wilson,4,Mini Project,Project,2026-03-05,44.0,50,True
+202600969,James Martinez,6,Debugging Challenge,Lab,2026-01-20,17.0,20,True
+202600854,Elijah Martinez,6,Code Tracing Quiz,Quiz,2026-02-03,16.0,20,True
+202600536,Ava Gonzalez,6,Algorithm Quiz,Quiz,2026-03-03,19.0,20,True
+202600229,Noah Johnson,2,Debugging Challenge,Lab,2026-02-24,17.0,20,True
+202600787,Lucas Brown,4,Mini Project,Project,2026-03-05,41.0,50,True
+202601056,Ella Thomas,6,Debugging Challenge,Lab,2026-01-20,13.0,20,True
+202600789,Amelia Williams,3,Lists and Arrays,Homework,2026-01-22,9.0,10,True
+202600372,Benjamin Jones,4,Conditionals Exercise,Homework,2026-02-12,8.0,10,True
+202600368,Emma Smith,2,Code Tracing Quiz,Quiz,2026-02-03,20.0,20,True
+202600914,Mia Hernandez,2,Loops Lab,Lab,2026-02-17,14.0,20,True
+202600323,Jack Anderson,5,Mini Project,Project,2026-03-05,38.0,50,True
+202600618,Harper Johnson,1,Algorithm Quiz,Quiz,2026-03-03,18.0,20,True
+202600117,Jack Smith,1,Lists and Arrays,Homework,2026-02-26,10.0,10,True
+202600254,Ella Hernandez,1,Algorithm Quiz,Quiz,2026-03-03,15.0,20,True
+202600747,Lucas Anderson,4,Variables Practice,Homework,2026-01-06,6.0,10,True
+202600711,Amelia Wilson,3,Debugging Challenge,Lab,2026-02-24,20.0,20,True
+202600618,Harper Johnson,1,Variables Practice,Homework,2026-02-10,7.0,10,True
+202600747,Lucas Anderson,4,Algorithm Quiz,Quiz,2026-01-27,17.0,20,True
+202600846,Elijah Gonzalez,1,Conditionals Exercise,Homework,2026-02-12,10.0,10,True
+202600889,Liam Wilson,4,Function Design,Homework,2026-02-19,9.0,10,True
+202600129,Benjamin Miller,5,Algorithm Quiz,Quiz,2026-03-03,,20,False
+202600731,Ella Hernandez,6,Function Design,Homework,2026-02-19,,10,False
+202600517,Benjamin Jones,3,Algorithm Quiz,Quiz,2026-01-27,14.0,20,True
+202600846,Elijah Gonzalez,1,Loops Lab,Lab,2026-02-17,15.0,20,True
+202600770,James Brown,1,Debugging Challenge,Lab,2026-02-24,16.0,20,True
+202600675,Evelyn Martinez,5,Debugging Challenge,Lab,2026-01-20,17.0,20,True
+202601000,Noah Hernandez,3,Loops Lab,Lab,2026-02-17,20.0,20,True
+202600368,Emma Smith,2,Loops Lab,Lab,2026-01-13,16.0,20,True
+202600323,Jack Anderson,5,Algorithm Quiz,Quiz,2026-03-03,16.0,20,True
+202600321,Evelyn Lopez,3,Code Tracing Quiz,Quiz,2026-02-03,18.0,20,True
+202600418,Mia Brown,3,Conditionals Exercise,Homework,2026-01-08,8.0,10,True
+202601009,Emma Anderson,6,Loops Lab,Lab,2026-02-17,20.0,20,True
+202600371,Harper Williams,6,Conditionals Exercise,Homework,2026-01-08,7.0,10,True
+202600343,Lucas Smith,6,Debugging Challenge,Lab,2026-01-20,18.0,20,True
+202600498,Jack Smith,2,Function Design,Homework,2026-02-19,8.0,10,True
+202600454,Lucas Jones,2,Conditionals Exercise,Homework,2026-01-08,8.0,10,True
+202600892,Mia Williams,3,Algorithm Quiz,Quiz,2026-03-03,17.0,20,True
+202600751,Jack Miller,1,Conditionals Exercise,Homework,2026-02-12,7.0,10,True
+202600973,Benjamin Smith,2,Mini Project,Project,2026-01-29,44.0,50,True
+202601056,Ella Thomas,6,Algorithm Quiz,Quiz,2026-03-03,20.0,20,True
+202600731,Ella Hernandez,6,Lists and Arrays,Homework,2026-02-26,7.0,10,True
+202601016,Scarlett Thomas,4,Variables Practice,Homework,2026-01-06,8.0,10,True
+202600517,Benjamin Jones,3,Conditionals Exercise,Homework,2026-01-08,7.0,10,True
+202601000,Noah Hernandez,3,Debugging Challenge,Lab,2026-01-20,18.0,20,True
+202600846,Elijah Gonzalez,1,Variables Practice,Homework,2026-01-06,9.0,10,True
+202601032,Ava Lopez,5,Mini Project,Project,2026-03-05,43.0,50,True
+202600371,Harper Williams,6,Conditionals Exercise,Homework,2026-02-12,10.0,10,True
+202600959,Evelyn Williams,4,Variables Practice,Homework,2026-02-10,5.0,10,True
+202600326,Olivia Brown,4,Conditionals Exercise,Homework,2026-02-12,9.0,10,True
+202600368,Emma Smith,2,Variables Practice,Homework,2026-01-06,7.0,10,True
+202600787,Lucas Brown,4,Function Design,Homework,2026-01-15,6.0,10,True
+202600751,Jack Miller,1,Variables Practice,Homework,2026-01-06,7.0,10,True
+202600731,Ella Hernandez,6,Variables Practice,Homework,2026-02-10,7.0,10,True
+202600371,Harper Williams,6,Lists and Arrays,Homework,2026-01-22,9.0,10,True
+202600274,Emma Miller,3,Conditionals Exercise,Homework,2026-02-12,8.0,10,True
+202600664,Emma Johnson,1,Variables Practice,Homework,2026-01-06,7.0,10,True
+202600182,Charlotte Wilson,2,Code Tracing Quiz,Quiz,2026-02-03,15.0,20,True
+202600229,Noah Johnson,2,Variables Practice,Homework,2026-02-10,9.0,10,True
+202600692,Elijah Martinez,3,Function Design,Homework,2026-02-19,10.0,10,True
+202600581,Henry Smith,5,Debugging Challenge,Lab,2026-02-24,19.0,20,True
+202600724,Henry Miller,4,Mini Project,Project,2026-03-05,50.0,50,True
+202600182,Charlotte Wilson,2,Loops Lab,Lab,2026-01-13,20.0,20,True
+202601016,Scarlett Thomas,4,Loops Lab,Lab,2026-01-13,,20,False
+202601056,Ella Thomas,6,Data Structures Intro,Homework,2026-02-05,6.0,10,True
+202600892,Mia Williams,3,Function Design,Homework,2026-02-19,10.0,10,True
+202600992,Jack Brown,3,Conditionals Exercise,Homework,2026-01-08,9.0,10,True
+202600992,Jack Brown,3,Loops Lab,Lab,2026-01-13,15.0,20,True
+202601056,Ella Thomas,6,Function Design,Homework,2026-01-15,9.0,10,True
+202600429,Amelia Williams,5,Lists and Arrays,Homework,2026-01-22,8.0,10,True
+202600229,Noah Johnson,2,Loops Lab,Lab,2026-01-13,17.0,20,True
+202600859,Elijah Martinez,6,Function Design,Homework,2026-01-15,5.0,10,True
+202600595,Sophia Anderson,2,Variables Practice,Homework,2026-02-10,,10,False
+202600675,Evelyn Martinez,5,Mini Project,Project,2026-03-05,44.0,50,True
+202601009,Emma Anderson,6,Algorithm Quiz,Quiz,2026-01-27,15.0,20,True
+202600226,Harper Hernandez,5,Loops Lab,Lab,2026-01-13,20.0,20,True
+202600371,Harper Williams,6,Data Structures Intro,Homework,2026-02-05,8.0,10,True
+202600787,Lucas Brown,4,Conditionals Exercise,Homework,2026-02-12,9.0,10,True
+202600959,Evelyn Williams,4,Conditionals Exercise,Homework,2026-02-12,9.0,10,True
+202600889,Liam Wilson,4,Mini Project,Project,2026-01-29,41.0,50,True
+202600833,Liam Brown,4,Debugging Challenge,Lab,2026-01-20,18.0,20,True
+202600789,Amelia Williams,3,Loops Lab,Lab,2026-02-17,16.0,20,True
+202600716,Sophia Anderson,6,Function Design,Homework,2026-02-19,9.0,10,True
+202600418,Mia Brown,3,Variables Practice,Homework,2026-01-06,8.0,10,True
+202600414,Emma Garcia,2,Lists and Arrays,Homework,2026-02-26,7.0,10,True
+202600770,James Brown,1,Variables Practice,Homework,2026-01-06,8.0,10,True
+202600833,Liam Brown,4,Function Design,Homework,2026-02-19,9.0,10,True
+202600414,Emma Garcia,2,Variables Practice,Homework,2026-01-06,9.0,10,True
+202600834,Liam Anderson,5,Algorithm Quiz,Quiz,2026-01-27,16.0,20,True
+202600536,Ava Gonzalez,6,Data Structures Intro,Homework,2026-02-05,9.0,10,True
+202600806,Emma Lopez,5,Mini Project,Project,2026-03-05,,50,False
+202600859,Elijah Martinez,6,Conditionals Exercise,Homework,2026-02-12,7.0,10,True
+202600117,Charlotte Thomas,4,Function Design,Homework,2026-01-15,10.0,10,True
+202600297,Liam Gonzalez,2,Function Design,Homework,2026-02-19,8.0,10,True
+202600517,Benjamin Jones,3,Mini Project,Project,2026-01-29,,50,False
+202600726,James Gonzalez,3,Code Tracing Quiz,Quiz,2026-02-03,12.0,20,True
+202600595,Sophia Anderson,2,Loops Lab,Lab,2026-02-17,20.0,20,True
+202600418,Mia Brown,3,Loops Lab,Lab,2026-01-13,15.0,20,True
+202600914,Mia Hernandez,2,Variables Practice,Homework,2026-01-06,,10,False
+202600297,Liam Gonzalez,2,Conditionals Exercise,Homework,2026-02-12,6.0,10,True
+202600818,Jack Martinez,4,Function Design,Homework,2026-01-15,6.0,10,True
+202600304,Ava Wilson,1,Code Tracing Quiz,Quiz,2026-02-03,19.0,20,True
+202600044,Jack Brown,1,Loops Lab,Lab,2026-01-13,20.0,20,True
+202600770,James Brown,1,Variables Practice,Homework,2026-02-10,9.0,10,True
+202600226,Harper Hernandez,5,Function Design,Homework,2026-02-19,9.0,10,True
+202600789,Amelia Williams,3,Mini Project,Project,2026-01-29,43.0,50,True
+202600240,Olivia Gonzalez,1,Code Tracing Quiz,Quiz,2026-02-03,16.0,20,True
+202600751,Jack Miller,1,Function Design,Homework,2026-01-15,7.0,10,True
+202600371,Harper Williams,6,Loops Lab,Lab,2026-02-17,17.0,20,True
+202600806,Emma Lopez,5,Algorithm Quiz,Quiz,2026-01-27,15.0,20,True
+202600751,Jack Miller,1,Conditionals Exercise,Homework,2026-01-08,8.0,10,True
+202600244,Evelyn Hernandez,1,Variables Practice,Homework,2026-02-10,6.0,10,True
+202600992,Jack Brown,3,Code Tracing Quiz,Quiz,2026-02-03,19.0,20,True
+202600914,Mia Hernandez,2,Algorithm Quiz,Quiz,2026-03-03,13.0,20,True
+202600182,Charlotte Wilson,2,Loops Lab,Lab,2026-02-17,18.0,20,True
+202600975,Jack Wilson,5,Algorithm Quiz,Quiz,2026-01-27,15.0,20,True
+202600229,Noah Johnson,2,Function Design,Homework,2026-01-15,7.0,10,True
+202600975,Jack Wilson,5,Mini Project,Project,2026-01-29,46.0,50,True
+202600892,Mia Williams,3,Debugging Challenge,Lab,2026-02-24,,20,False
+202600854,Elijah Martinez,6,Function Design,Homework,2026-01-15,9.0,10,True
+202600977,Scarlett Miller,5,Function Design,Homework,2026-02-19,8.0,10,True
+202600129,Benjamin Miller,5,Variables Practice,Homework,2026-02-10,8.0,10,True
+202600595,Sophia Anderson,2,Lists and Arrays,Homework,2026-01-22,9.0,10,True
+202600081,Daniel Garcia,6,Debugging Challenge,Lab,2026-01-20,17.0,20,True
+202600595,Sophia Anderson,2,Conditionals Exercise,Homework,2026-02-12,9.0,10,True
+202600044,Jack Brown,1,Algorithm Quiz,Quiz,2026-03-03,17.0,20,True
+202600711,Amelia Wilson,3,Loops Lab,Lab,2026-01-13,15.0,20,True
+202600244,Evelyn Hernandez,1,Algorithm Quiz,Quiz,2026-03-03,13.0,20,True
+202601000,Noah Hernandez,3,Algorithm Quiz,Quiz,2026-03-03,18.0,20,True
+202600664,Emma Johnson,1,Algorithm Quiz,Quiz,2026-03-03,15.0,20,True
+202600372,Benjamin Jones,4,Debugging Challenge,Lab,2026-01-20,18.0,20,True
+202600977,Scarlett Miller,5,Conditionals Exercise,Homework,2026-02-12,8.0,10,True
+202600182,Charlotte Wilson,2,Lists and Arrays,Homework,2026-01-22,7.0,10,True
+202600724,Henry Miller,4,Debugging Challenge,Lab,2026-01-20,17.0,20,True
+202600117,Charlotte Thomas,4,Lists and Arrays,Homework,2026-02-26,10.0,10,True
+202600331,Noah Anderson,3,Conditionals Exercise,Homework,2026-02-12,8.0,10,True
+202600806,Emma Lopez,5,Function Design,Homework,2026-02-19,10.0,10,True
+202600044,Jack Brown,1,Mini Project,Project,2026-03-05,26.0,50,True
+202600889,Liam Wilson,4,Lists and Arrays,Homework,2026-01-22,10.0,10,True
+202600692,Elijah Martinez,3,Mini Project,Project,2026-03-05,44.0,50,True
+202600174,Olivia Lopez,5,Conditionals Exercise,Homework,2026-02-12,8.0,10,True
+202600129,Benjamin Miller,5,Function Design,Homework,2026-02-19,8.0,10,True
+202600498,Jack Smith,2,Conditionals Exercise,Homework,2026-02-12,7.0,10,True
+202600914,Mia Hernandez,2,Data Structures Intro,Homework,2026-02-05,6.0,10,True
+202600969,James Martinez,6,Algorithm Quiz,Quiz,2026-03-03,16.0,20,True
+202600747,Lucas Anderson,4,Conditionals Exercise,Homework,2026-02-12,9.0,10,True
+202600675,Evelyn Martinez,5,Loops Lab,Lab,2026-01-13,17.0,20,True
+202600117,Charlotte Thomas,4,Debugging Challenge,Lab,2026-01-20,16.0,20,True
+202600751,Jack Miller,1,Debugging Challenge,Lab,2026-01-20,14.0,20,True
+202600977,Scarlett Miller,5,Variables Practice,Homework,2026-02-10,5.0,10,True
+202600326,Scarlett Miller,4,Loops Lab,Lab,2026-02-17,17.0,20,True
+202600081,Daniel Garcia,6,Variables Practice,Homework,2026-02-10,9.0,10,True
+202600368,Emma Smith,2,Algorithm Quiz,Quiz,2026-01-27,13.0,20,True
+202600536,Ava Gonzalez,6,Conditionals Exercise,Homework,2026-02-12,8.0,10,True
+202600174,Olivia Lopez,5,Variables Practice,Homework,2026-01-06,9.0,10,True
+202600371,Harper Williams,6,Variables Practice,Homework,2026-02-10,6.0,10,True
+202601032,Ava Lopez,5,Mini Project,Project,2026-01-29,44.0,50,True
+202600859,Elijah Martinez,6,Algorithm Quiz,Quiz,2026-01-27,15.0,20,True
+202600226,Harper Hernandez,5,Algorithm Quiz,Quiz,2026-01-27,19.0,20,True
+202600414,Emma Garcia,2,Loops Lab,Lab,2026-01-13,17.0,20,True
+202600834,Liam Anderson,5,Loops Lab,Lab,2026-02-17,,20,False
+202601032,Ava Lopez,5,Debugging Challenge,Lab,2026-01-20,17.0,20,True
+202600595,Sophia Anderson,2,Mini Project,Project,2026-03-05,42.0,50,True
+202600117,Jack Smith,1,Mini Project,Project,2026-03-05,43.0,50,True
+202600226,Harper Hernandez,5,Function Design,Homework,2026-01-15,8.0,10,True
+202600182,Charlotte Wilson,2,Debugging Challenge,Lab,2026-02-24,20.0,20,True
+202600581,Henry Smith,5,Mini Project,Project,2026-01-29,,50,False
+202600454,Lucas Jones,2,Function Design,Homework,2026-01-15,9.0,10,True
+202600044,Jack Brown,1,Function Design,Homework,2026-01-15,5.0,10,True
+202600045,Noah Brown,1,Algorithm Quiz,Quiz,2026-03-03,19.0,20,True
+202600818,Jack Martinez,4,Conditionals Exercise,Homework,2026-02-12,8.0,10,True
+202600973,Benjamin Smith,2,Debugging Challenge,Lab,2026-01-20,15.0,20,True
+202600498,Jack Smith,2,Mini Project,Project,2026-03-05,50.0,50,True
+202600304,Ava Wilson,1,Function Design,Homework,2026-01-15,10.0,10,True
+202600692,Elijah Martinez,3,Function Design,Homework,2026-01-15,7.0,10,True
+202600254,Ella Hernandez,1,Mini Project,Project,2026-01-29,21.0,50,True
+202600418,Mia Brown,3,Loops Lab,Lab,2026-02-17,16.0,20,True
+202600323,Jack Anderson,5,Code Tracing Quiz,Quiz,2026-02-03,15.0,20,True
+202600297,Liam Gonzalez,2,Mini Project,Project,2026-01-29,37.0,50,True
+202600297,Liam Gonzalez,2,Data Structures Intro,Homework,2026-02-05,8.0,10,True
+202600372,Benjamin Jones,4,Debugging Challenge,Lab,2026-02-24,17.0,20,True
+202600675,Evelyn Martinez,5,Debugging Challenge,Lab,2026-02-24,17.0,20,True
+202601032,Ava Lopez,5,Lists and Arrays,Homework,2026-01-22,,10,False
+202600229,Noah Johnson,2,Code Tracing Quiz,Quiz,2026-02-03,15.0,20,True
+202600274,Emma Miller,3,Algorithm Quiz,Quiz,2026-03-03,13.0,20,True
+202600977,Scarlett Miller,5,Algorithm Quiz,Quiz,2026-03-03,16.0,20,True
+202601056,Ella Thomas,6,Lists and Arrays,Homework,2026-02-26,9.0,10,True
+202601032,Ava Lopez,5,Debugging Challenge,Lab,2026-02-24,16.0,20,True
+202601009,Emma Anderson,6,Lists and Arrays,Homework,2026-02-26,8.0,10,True
+202600429,Amelia Williams,5,Loops Lab,Lab,2026-02-17,18.0,20,True
+202600833,Liam Brown,4,Lists and Arrays,Homework,2026-02-26,5.0,10,True
+202600893,Mia Hernandez,2,Conditionals Exercise,Homework,2026-01-08,6.0,10,True
+202600326,Olivia Brown,4,Debugging Challenge,Lab,2026-01-20,20.0,20,True
+202600117,Charlotte Thomas,4,Code Tracing Quiz,Quiz,2026-02-03,20.0,20,True
+202600244,Evelyn Hernandez,1,Function Design,Homework,2026-01-15,8.0,10,True
+202600081,Daniel Garcia,6,Lists and Arrays,Homework,2026-01-22,9.0,10,True
+202600581,Henry Smith,5,Algorithm Quiz,Quiz,2026-01-27,15.0,20,True
+202600789,Amelia Williams,3,Conditionals Exercise,Homework,2026-01-08,8.0,10,True
+202600787,Lucas Brown,4,Loops Lab,Lab,2026-02-17,17.0,20,True
+202600297,Liam Gonzalez,2,Code Tracing Quiz,Quiz,2026-02-03,19.0,20,True
+202600517,Benjamin Jones,3,Variables Practice,Homework,2026-02-10,7.0,10,True
+202600368,Emma Smith,2,Algorithm Quiz,Quiz,2026-03-03,15.0,20,True
+202600664,Emma Johnson,1,Loops Lab,Lab,2026-01-13,17.0,20,True
+202600321,Evelyn Lopez,3,Debugging Challenge,Lab,2026-01-20,15.0,20,True
+202600182,Charlotte Wilson,2,Algorithm Quiz,Quiz,2026-01-27,16.0,20,True
+202600674,Daniel Thomas,2,Function Design,Homework,2026-01-15,10.0,10,True
+202600304,Ava Wilson,1,Algorithm Quiz,Quiz,2026-03-03,17.0,20,True
+202600498,Jack Smith,2,Debugging Challenge,Lab,2026-02-24,14.0,20,True
+202600044,Jack Brown,1,Lists and Arrays,Homework,2026-02-26,8.0,10,True
+202600326,Olivia Brown,4,Loops Lab,Lab,2026-01-13,15.0,20,True
+202601056,Ella Thomas,6,Code Tracing Quiz,Quiz,2026-02-03,17.0,20,True
+202600182,Charlotte Wilson,2,Debugging Challenge,Lab,2026-01-20,13.0,20,True
+202600992,Jack Brown,3,Loops Lab,Lab,2026-02-17,18.0,20,True
+202600726,James Gonzalez,3,Variables Practice,Homework,2026-01-06,8.0,10,True
+202601032,Ava Lopez,5,Conditionals Exercise,Homework,2026-01-08,10.0,10,True
+202600371,Harper Williams,6,Function Design,Homework,2026-01-15,8.0,10,True
+202600418,Mia Brown,3,Data Structures Intro,Homework,2026-02-05,7.0,10,True
+202600834,Liam Anderson,5,Lists and Arrays,Homework,2026-02-26,6.0,10,True
+202600117,Jack Smith,1,Variables Practice,Homework,2026-01-06,9.0,10,True
+202600182,Charlotte Wilson,2,Conditionals Exercise,Homework,2026-01-08,9.0,10,True
+202600240,Olivia Gonzalez,1,Variables Practice,Homework,2026-02-10,10.0,10,True
+202600892,Mia Williams,3,Conditionals Exercise,Homework,2026-01-08,7.0,10,True
+202600992,Jack Brown,3,Variables Practice,Homework,2026-01-06,7.0,10,True
+202600675,Evelyn Martinez,5,Data Structures Intro,Homework,2026-02-05,8.0,10,True
+202600674,Daniel Thomas,2,Algorithm Quiz,Quiz,2026-03-03,18.0,20,True
+202600731,Ella Hernandez,6,Mini Project,Project,2026-03-05,34.0,50,True
+202600281,Olivia Garcia,6,Variables Practice,Homework,2026-02-10,8.0,10,True
+202600414,Emma Garcia,2,Conditionals Exercise,Homework,2026-02-12,8.0,10,True
+202600331,Noah Anderson,3,Code Tracing Quiz,Quiz,2026-02-03,16.0,20,True
+202600975,Jack Wilson,5,Variables Practice,Homework,2026-01-06,8.0,10,True
+202600854,Elijah Martinez,6,Debugging Challenge,Lab,2026-01-20,20.0,20,True
+202600859,Elijah Martinez,6,Debugging Challenge,Lab,2026-02-24,14.0,20,True
+202600889,Liam Wilson,4,Algorithm Quiz,Quiz,2026-03-03,19.0,20,True
+202600117,Jack Smith,1,Data Structures Intro,Homework,2026-02-05,7.0,10,True
+202600321,Evelyn Lopez,3,Data Structures Intro,Homework,2026-02-05,7.0,10,True
+202600973,Benjamin Smith,2,Function Design,Homework,2026-01-15,6.0,10,True
+202600281,Olivia Garcia,6,Debugging Challenge,Lab,2026-01-20,19.0,20,True
+202600081,Daniel Garcia,6,Variables Practice,Homework,2026-01-06,7.0,10,True
+202600226,Harper Hernandez,5,Variables Practice,Homework,2026-02-10,,10,False
+202600226,Harper Hernandez,5,Conditionals Exercise,Homework,2026-01-08,9.0,10,True
+202600751,Jack Miller,1,Debugging Challenge,Lab,2026-02-24,15.0,20,True
+202600297,Liam Gonzalez,2,Mini Project,Project,2026-03-05,43.0,50,True
+202600595,Sophia Anderson,2,Algorithm Quiz,Quiz,2026-03-03,16.0,20,True
+202600992,Jack Brown,3,Conditionals Exercise,Homework,2026-02-12,6.0,10,True
+202600081,Daniel Garcia,6,Loops Lab,Lab,2026-01-13,,20,False
+202600859,Elijah Martinez,6,Debugging Challenge,Lab,2026-01-20,19.0,20,True
+202600747,Lucas Anderson,4,Algorithm Quiz,Quiz,2026-03-03,16.0,20,True
+202600751,Jack Miller,1,Algorithm Quiz,Quiz,2026-03-03,13.0,20,True
+202600975,Jack Wilson,5,Data Structures Intro,Homework,2026-02-05,7.0,10,True
+202600281,Olivia Garcia,6,Algorithm Quiz,Quiz,2026-03-03,20.0,20,True
+202601032,Ava Lopez,5,Variables Practice,Homework,2026-01-06,8.0,10,True
+202600618,Harper Johnson,1,Mini Project,Project,2026-03-05,33.0,50,True
+202600892,Mia Williams,3,Loops Lab,Lab,2026-02-17,19.0,20,True
+202600326,Olivia Brown,4,Debugging Challenge,Lab,2026-02-24,17.0,20,True
+202600174,Olivia Lopez,5,Variables Practice,Homework,2026-02-10,7.0,10,True
+202600371,Harper Williams,6,Debugging Challenge,Lab,2026-01-20,19.0,20,True
+202600244,Evelyn Hernandez,1,Debugging Challenge,Lab,2026-01-20,16.0,20,True
+202600726,James Gonzalez,3,Algorithm Quiz,Quiz,2026-01-27,15.0,20,True
+202600323,Jack Anderson,5,Function Design,Homework,2026-01-15,10.0,10,True
+202600044,Jack Brown,1,Algorithm Quiz,Quiz,2026-01-27,17.0,20,True
+202600731,Ella Hernandez,6,Debugging Challenge,Lab,2026-02-24,19.0,20,True
+202600595,Sophia Anderson,2,Debugging Challenge,Lab,2026-01-20,10.0,20,True
+202600368,Emma Smith,2,Function Design,Homework,2026-01-15,,10,False
+202601016,Scarlett Thomas,4,Algorithm Quiz,Quiz,2026-03-03,18.0,20,True
+202600751,Jack Miller,1,Mini Project,Project,2026-01-29,50.0,50,True
+202600117,Charlotte Thomas,4,Loops Lab,Lab,2026-02-17,16.0,20,True
+202600414,Emma Garcia,2,Function Design,Homework,2026-02-19,7.0,10,True
+202600454,Lucas Jones,2,Lists and Arrays,Homework,2026-01-22,9.0,10,True
+202600914,Mia Hernandez,2,Conditionals Exercise,Homework,2026-01-08,8.0,10,True
+202600751,Jack Miller,1,Algorithm Quiz,Quiz,2026-01-27,18.0,20,True
+202600229,Noah Johnson,2,Mini Project,Project,2026-03-05,32.0,50,True
+202600229,Noah Johnson,2,Lists and Arrays,Homework,2026-02-26,8.0,10,True
+202600818,Jack Martinez,4,Conditionals Exercise,Homework,2026-01-08,7.0,10,True
+202600254,Ella Hernandez,1,Function Design,Homework,2026-01-15,7.0,10,True
+202600414,Emma Garcia,2,Algorithm Quiz,Quiz,2026-01-27,16.0,20,True
+202600969,James Martinez,6,Debugging Challenge,Lab,2026-02-24,16.0,20,True
+202600716,Sophia Anderson,6,Lists and Arrays,Homework,2026-01-22,7.0,10,True
+202600977,Scarlett Miller,5,Mini Project,Project,2026-03-05,40.0,50,True
+202600517,Benjamin Jones,3,Loops Lab,Lab,2026-01-13,20.0,20,True
+202600044,Jack Brown,1,Loops Lab,Lab,2026-02-17,20.0,20,True
+202600716,Sophia Anderson,6,Code Tracing Quiz,Quiz,2026-02-03,16.0,20,True
+202600343,Lucas Smith,6,Algorithm Quiz,Quiz,2026-03-03,13.0,20,True
+202601009,Emma Anderson,6,Debugging Challenge,Lab,2026-02-24,17.0,20,True
+202600806,Emma Lopez,5,Algorithm Quiz,Quiz,2026-03-03,,20,False
+202600770,James Brown,1,Mini Project,Project,2026-01-29,49.0,50,True
+202601016,Scarlett Thomas,4,Variables Practice,Homework,2026-02-10,8.0,10,True
+202600726,James Gonzalez,3,Function Design,Homework,2026-02-19,8.0,10,True
+202600418,Mia Brown,3,Lists and Arrays,Homework,2026-02-26,7.0,10,True
+202600674,Daniel Thomas,2,Mini Project,Project,2026-01-29,,50,False
+202601000,Noah Hernandez,3,Mini Project,Project,2026-03-05,38.0,50,True
+202600368,Emma Smith,2,Mini Project,Project,2026-03-05,42.0,50,True
+202600581,Henry Smith,5,Data Structures Intro,Homework,2026-02-05,,10,False
+202600323,Jack Anderson,5,Variables Practice,Homework,2026-02-10,8.0,10,True
+202600854,Elijah Martinez,6,Debugging Challenge,Lab,2026-02-24,12.0,20,True
+202600595,Sophia Anderson,2,Algorithm Quiz,Quiz,2026-01-27,18.0,20,True
+202600818,Jack Martinez,4,Debugging Challenge,Lab,2026-02-24,18.0,20,True
+202600254,Ella Hernandez,1,Algorithm Quiz,Quiz,2026-01-27,17.0,20,True
+202600892,Mia Williams,3,Variables Practice,Homework,2026-01-06,9.0,10,True
+202600044,Jack Brown,1,Variables Practice,Homework,2026-01-06,9.0,10,True
+202600789,Amelia Williams,3,Debugging Challenge,Lab,2026-02-24,17.0,20,True
+202600045,Noah Brown,1,Loops Lab,Lab,2026-01-13,13.0,20,True
+202600893,Mia Hernandez,2,Conditionals Exercise,Homework,2026-02-12,8.0,10,True
+202600429,Amelia Williams,5,Function Design,Homework,2026-02-19,9.0,10,True
+202600724,Henry Miller,4,Algorithm Quiz,Quiz,2026-01-27,15.0,20,True
+202600331,Noah Anderson,3,Variables Practice,Homework,2026-01-06,8.0,10,True
+202600674,Daniel Thomas,2,Data Structures Intro,Homework,2026-02-05,8.0,10,True
+202601016,Scarlett Thomas,4,Algorithm Quiz,Quiz,2026-01-27,17.0,20,True
+202600429,Amelia Williams,5,Mini Project,Project,2026-01-29,33.0,50,True
+202600618,Harper Johnson,1,Debugging Challenge,Lab,2026-01-20,14.0,20,True
+202600174,Olivia Lopez,5,Debugging Challenge,Lab,2026-02-24,15.0,20,True
+202600454,Lucas Jones,2,Variables Practice,Homework,2026-01-06,8.0,10,True
+202600674,Daniel Thomas,2,Conditionals Exercise,Homework,2026-01-08,9.0,10,True
+202600297,Liam Gonzalez,2,Conditionals Exercise,Homework,2026-01-08,9.0,10,True
+202600372,Benjamin Jones,4,Loops Lab,Lab,2026-01-13,19.0,20,True
+202600770,James Brown,1,Code Tracing Quiz,Quiz,2026-02-03,14.0,20,True
+202600806,Emma Lopez,5,Conditionals Exercise,Homework,2026-01-08,6.0,10,True
+202600517,Benjamin Jones,3,Code Tracing Quiz,Quiz,2026-02-03,19.0,20,True
+202600371,Harper Williams,6,Algorithm Quiz,Quiz,2026-03-03,16.0,20,True
+202600747,Lucas Anderson,4,Debugging Challenge,Lab,2026-02-24,17.0,20,True
+202600959,Evelyn Williams,4,Algorithm Quiz,Quiz,2026-03-03,15.0,20,True
+202600254,Ella Hernandez,1,Function Design,Homework,2026-02-19,8.0,10,True
+202600854,Elijah Martinez,6,Algorithm Quiz,Quiz,2026-01-27,15.0,20,True
+202600914,Mia Hernandez,2,Mini Project,Project,2026-01-29,33.0,50,True
+202600418,Mia Brown,3,Function Design,Homework,2026-02-19,8.0,10,True
+202600692,Elijah Martinez,3,Code Tracing Quiz,Quiz,2026-02-03,,20,False
+202600595,Sophia Anderson,2,Lists and Arrays,Homework,2026-02-26,7.0,10,True
+202600323,Jack Anderson,5,Lists and Arrays,Homework,2026-01-22,10.0,10,True
+202600304,Ava Wilson,1,Mini Project,Project,2026-03-05,,50,False
+202600414,Emma Garcia,2,Variables Practice,Homework,2026-02-10,8.0,10,True
+202600664,Emma Johnson,1,Mini Project,Project,2026-03-05,37.0,50,True
+202600770,James Brown,1,Algorithm Quiz,Quiz,2026-01-27,17.0,20,True
+202600859,Elijah Martinez,6,Conditionals Exercise,Homework,2026-01-08,,10,False
+202600859,Elijah Martinez,6,Lists and Arrays,Homework,2026-01-22,10.0,10,True
+202600326,Scarlett Miller,4,Data Structures Intro,Homework,2026-02-05,8.0,10,True
+202600854,Elijah Martinez,6,Loops Lab,Lab,2026-01-13,20.0,20,True
+202601056,Ella Thomas,6,Lists and Arrays,Homework,2026-01-22,8.0,10,True
+202600675,Evelyn Martinez,5,Conditionals Exercise,Homework,2026-02-12,9.0,10,True
+202600244,Evelyn Hernandez,1,Debugging Challenge,Lab,2026-02-24,17.0,20,True
+202600789,Amelia Williams,3,Algorithm Quiz,Quiz,2026-01-27,18.0,20,True
+202600834,Liam Anderson,5,Mini Project,Project,2026-01-29,38.0,50,True
+202601056,Ella Thomas,6,Conditionals Exercise,Homework,2026-01-08,7.0,10,True
+202600117,Charlotte Thomas,4,Variables Practice,Homework,2026-02-10,8.0,10,True
+202600724,Henry Miller,4,Function Design,Homework,2026-01-15,8.0,10,True
+202600331,Noah Anderson,3,Mini Project,Project,2026-03-05,41.0,50,True
+202600969,James Martinez,6,Variables Practice,Homework,2026-01-06,,10,False
+202600692,Elijah Martinez,3,Debugging Challenge,Lab,2026-01-20,13.0,20,True
+202600674,Daniel Thomas,2,Lists and Arrays,Homework,2026-02-26,8.0,10,True
+202600326,Olivia Brown,4,Lists and Arrays,Homework,2026-01-22,8.0,10,True
+202600716,Sophia Anderson,6,Conditionals Exercise,Homework,2026-02-12,,10,False
+202600117,Charlotte Thomas,4,Mini Project,Project,2026-01-29,32.0,50,True
+202600323,Jack Anderson,5,Debugging Challenge,Lab,2026-01-20,19.0,20,True
+202600859,Elijah Martinez,6,Mini Project,Project,2026-03-05,39.0,50,True
+202600724,Henry Miller,4,Data Structures Intro,Homework,2026-02-05,9.0,10,True
+202600045,Noah Brown,1,Mini Project,Project,2026-01-29,42.0,50,True
+202600343,Lucas Smith,6,Conditionals Exercise,Homework,2026-01-08,9.0,10,True
+202600274,Emma Miller,3,Lists and Arrays,Homework,2026-02-26,6.0,10,True
+202600975,Jack Wilson,5,Debugging Challenge,Lab,2026-02-24,19.0,20,True
+202600240,Olivia Gonzalez,1,Conditionals Exercise,Homework,2026-01-08,9.0,10,True
+202600254,Ella Hernandez,1,Conditionals Exercise,Homework,2026-02-12,9.0,10,True
+202600414,Emma Garcia,2,Lists and Arrays,Homework,2026-01-22,5.0,10,True
+202601009,Emma Anderson,6,Loops Lab,Lab,2026-01-13,18.0,20,True
+202600854,Elijah Martinez,6,Loops Lab,Lab,2026-02-17,15.0,20,True
+202600129,Benjamin Miller,5,Variables Practice,Homework,2026-01-06,10.0,10,True
+202600304,Ava Wilson,1,Loops Lab,Lab,2026-01-13,20.0,20,True
+202601016,Scarlett Thomas,4,Lists and Arrays,Homework,2026-01-22,7.0,10,True
+202600770,James Brown,1,Mini Project,Project,2026-03-05,34.0,50,True
+202600326,Scarlett Miller,4,Algorithm Quiz,Quiz,2026-03-03,17.0,20,True
+202600081,Daniel Garcia,6,Function Design,Homework,2026-01-15,7.0,10,True
+202600045,Noah Brown,1,Function Design,Homework,2026-02-19,9.0,10,True
+202600182,Charlotte Wilson,2,Variables Practice,Homework,2026-01-06,7.0,10,True
+202600846,Elijah Gonzalez,1,Data Structures Intro,Homework,2026-02-05,9.0,10,True
+202600892,Mia Williams,3,Mini Project,Project,2026-01-29,43.0,50,True
+202600992,Jack Brown,3,Algorithm Quiz,Quiz,2026-01-27,20.0,20,True
+202600226,Harper Hernandez,5,Lists and Arrays,Homework,2026-02-26,7.0,10,True
+202600368,Emma Smith,2,Lists and Arrays,Homework,2026-02-26,,10,False
+202600418,Mia Brown,3,Function Design,Homework,2026-01-15,6.0,10,True
+202601000,Noah Hernandez,3,Code Tracing Quiz,Quiz,2026-02-03,14.0,20,True
+202600618,Harper Johnson,1,Lists and Arrays,Homework,2026-02-26,6.0,10,True
+202600834,Liam Anderson,5,Function Design,Homework,2026-01-15,8.0,10,True
+202600618,Harper Johnson,1,Loops Lab,Lab,2026-01-13,15.0,20,True
+202600581,Henry Smith,5,Variables Practice,Homework,2026-01-06,8.0,10,True
+202600297,Liam Gonzalez,2,Debugging Challenge,Lab,2026-02-24,14.0,20,True
+202600959,Evelyn Williams,4,Mini Project,Project,2026-03-05,42.0,50,True
+202600818,Jack Martinez,4,Loops Lab,Lab,2026-01-13,18.0,20,True
+202600081,Daniel Garcia,6,Debugging Challenge,Lab,2026-02-24,20.0,20,True
+202600321,Evelyn Lopez,3,Variables Practice,Homework,2026-01-06,7.0,10,True
+202600323,Jack Anderson,5,Lists and Arrays,Homework,2026-02-26,,10,False
+202600975,Jack Wilson,5,Function Design,Homework,2026-02-19,9.0,10,True
+202600833,Liam Brown,4,Conditionals Exercise,Homework,2026-01-08,,10,False
+202600517,Benjamin Jones,3,Data Structures Intro,Homework,2026-02-05,9.0,10,True
+202600326,Scarlett Miller,4,Lists and Arrays,Homework,2026-01-22,9.0,10,True
+202600129,Benjamin Miller,5,Debugging Challenge,Lab,2026-01-20,13.0,20,True
+202600818,Jack Martinez,4,Code Tracing Quiz,Quiz,2026-02-03,10.0,20,True
+202600975,Jack Wilson,5,Code Tracing Quiz,Quiz,2026-02-03,16.0,20,True
+202600321,Evelyn Lopez,3,Conditionals Exercise,Homework,2026-02-12,9.0,10,True
+202600770,James Brown,1,Conditionals Exercise,Homework,2026-01-08,9.0,10,True
+202600975,Jack Wilson,5,Variables Practice,Homework,2026-02-10,9.0,10,True
+202601056,Ella Thomas,6,Mini Project,Project,2026-03-05,44.0,50,True
+202600914,Mia Hernandez,2,Lists and Arrays,Homework,2026-01-22,7.0,10,True
+202600664,Emma Johnson,1,Debugging Challenge,Lab,2026-02-24,12.0,20,True
+202600323,Jack Anderson,5,Loops Lab,Lab,2026-02-17,15.0,20,True
+202601009,Emma Anderson,6,Conditionals Exercise,Homework,2026-01-08,6.0,10,True
+202600174,Olivia Lopez,5,Conditionals Exercise,Homework,2026-01-08,10.0,10,True
+202600371,Harper Williams,6,Debugging Challenge,Lab,2026-02-24,14.0,20,True
+202600304,Ava Wilson,1,Mini Project,Project,2026-01-29,43.0,50,True
+202600977,Scarlett Miller,5,Code Tracing Quiz,Quiz,2026-02-03,,20,False
+202600244,Evelyn Hernandez,1,Mini Project,Project,2026-03-05,42.0,50,True
+202600429,Amelia Williams,5,Lists and Arrays,Homework,2026-02-26,,10,False
+202600517,Benjamin Jones,3,Debugging Challenge,Lab,2026-02-24,19.0,20,True
+202600731,Ella Hernandez,6,Debugging Challenge,Lab,2026-01-20,15.0,20,True
+202601016,Scarlett Thomas,4,Lists and Arrays,Homework,2026-02-26,9.0,10,True
+202600326,Scarlett Miller,4,Mini Project,Project,2026-03-05,33.0,50,True
+202600674,Daniel Thomas,2,Mini Project,Project,2026-03-05,43.0,50,True
+202600129,Benjamin Miller,5,Lists and Arrays,Homework,2026-01-22,9.0,10,True
+202600675,Evelyn Martinez,5,Function Design,Homework,2026-02-19,9.0,10,True
+202600281,Olivia Garcia,6,Algorithm Quiz,Quiz,2026-01-27,20.0,20,True
+202600281,Olivia Garcia,6,Loops Lab,Lab,2026-02-17,15.0,20,True
+202600914,Mia Hernandez,2,Debugging Challenge,Lab,2026-02-24,,20,False
+202600977,Scarlett Miller,5,Loops Lab,Lab,2026-02-17,,20,False
+202600274,Emma Miller,3,Algorithm Quiz,Quiz,2026-01-27,18.0,20,True
+202600747,Lucas Anderson,4,Function Design,Homework,2026-01-15,8.0,10,True
+202600747,Lucas Anderson,4,Code Tracing Quiz,Quiz,2026-02-03,16.0,20,True
+202600536,Ava Gonzalez,6,Debugging Challenge,Lab,2026-01-20,15.0,20,True
+202600618,Harper Johnson,1,Lists and Arrays,Homework,2026-01-22,10.0,10,True
+202600281,Olivia Garcia,6,Data Structures Intro,Homework,2026-02-05,8.0,10,True
+202600331,Noah Anderson,3,Algorithm Quiz,Quiz,2026-01-27,17.0,20,True
+202600747,Lucas Anderson,4,Loops Lab,Lab,2026-02-17,17.0,20,True
+202600498,Jack Smith,2,Conditionals Exercise,Homework,2026-01-08,9.0,10,True
+202600331,Noah Anderson,3,Function Design,Homework,2026-02-19,7.0,10,True
+202600975,Jack Wilson,5,Function Design,Homework,2026-01-15,7.0,10,True
+202600274,Emma Miller,3,Variables Practice,Homework,2026-01-06,8.0,10,True
+202600833,Liam Brown,4,Loops Lab,Lab,2026-01-13,19.0,20,True
+202600664,Emma Johnson,1,Function Design,Homework,2026-02-19,6.0,10,True
+202600326,Scarlett Miller,4,Function Design,Homework,2026-01-15,,10,False
+202600674,Daniel Thomas,2,Debugging Challenge,Lab,2026-02-24,11.0,20,True
+202600581,Henry Smith,5,Mini Project,Project,2026-03-05,,50,False
+202600618,Harper Johnson,1,Conditionals Exercise,Homework,2026-01-08,6.0,10,True
+202600117,Jack Smith,1,Algorithm Quiz,Quiz,2026-03-03,18.0,20,True
+202600129,Benjamin Miller,5,Conditionals Exercise,Homework,2026-02-12,10.0,10,True
+202600343,Lucas Smith,6,Code Tracing Quiz,Quiz,2026-02-03,20.0,20,True
+202600846,Elijah Gonzalez,1,Function Design,Homework,2026-02-19,10.0,10,True
+202600675,Evelyn Martinez,5,Variables Practice,Homework,2026-01-06,8.0,10,True
+202600664,Emma Johnson,1,Function Design,Homework,2026-01-15,9.0,10,True
+202600326,Scarlett Miller,4,Conditionals Exercise,Homework,2026-01-08,8.0,10,True
+202600244,Evelyn Hernandez,1,Lists and Arrays,Homework,2026-02-26,10.0,10,True
+202600914,Mia Hernandez,2,Mini Project,Project,2026-03-05,43.0,50,True
+202600859,Elijah Martinez,6,Variables Practice,Homework,2026-01-06,8.0,10,True
+202600711,Amelia Wilson,3,Data Structures Intro,Homework,2026-02-05,6.0,10,True
+202601000,Noah Hernandez,3,Lists and Arrays,Homework,2026-01-22,8.0,10,True
+202600787,Lucas Brown,4,Lists and Arrays,Homework,2026-02-26,8.0,10,True
+202600321,Evelyn Lopez,3,Algorithm Quiz,Quiz,2026-03-03,9.0,20,True
+202600975,Jack Wilson,5,Loops Lab,Lab,2026-01-13,15.0,20,True
+202600747,Lucas Anderson,4,Mini Project,Project,2026-03-05,46.0,50,True
+202600834,Liam Anderson,5,Debugging Challenge,Lab,2026-01-20,19.0,20,True
+202601016,Scarlett Thomas,4,Mini Project,Project,2026-03-05,,50,False
+202600321,Evelyn Lopez,3,Lists and Arrays,Homework,2026-01-22,8.0,10,True
+202600581,Henry Smith,5,Conditionals Exercise,Homework,2026-02-12,7.0,10,True
+202600618,Harper Johnson,1,Algorithm Quiz,Quiz,2026-01-27,18.0,20,True
+202600297,Liam Gonzalez,2,Lists and Arrays,Homework,2026-01-22,7.0,10,True
+202600846,Elijah Gonzalez,1,Loops Lab,Lab,2026-01-13,20.0,20,True
+202600914,Mia Hernandez,2,Lists and Arrays,Homework,2026-02-26,6.0,10,True
+202600117,Jack Smith,1,Function Design,Homework,2026-02-19,9.0,10,True
+202600045,Noah Brown,1,Function Design,Homework,2026-01-15,10.0,10,True
+202600498,Jack Smith,2,Variables Practice,Homework,2026-02-10,9.0,10,True
+202600304,Ava Wilson,1,Variables Practice,Homework,2026-02-10,8.0,10,True
+202600818,Jack Martinez,4,Data Structures Intro,Homework,2026-02-05,8.0,10,True
+202600973,Benjamin Smith,2,Mini Project,Project,2026-03-05,43.0,50,True
+202600664,Emma Johnson,1,Conditionals Exercise,Homework,2026-02-12,8.0,10,True
+202600889,Liam Wilson,4,Loops Lab,Lab,2026-02-17,,20,False
+202600418,Mia Brown,3,Debugging Challenge,Lab,2026-01-20,13.0,20,True
+202600304,Ava Wilson,1,Lists and Arrays,Homework,2026-01-22,10.0,10,True
+202600992,Jack Brown,3,Lists and Arrays,Homework,2026-01-22,6.0,10,True
+202600789,Amelia Williams,3,Loops Lab,Lab,2026-01-13,,20,False
+202600244,Evelyn Hernandez,1,Mini Project,Project,2026-01-29,35.0,50,True
+202600893,Mia Hernandez,2,Code Tracing Quiz,Quiz,2026-02-03,15.0,20,True
+202600174,Olivia Lopez,5,Mini Project,Project,2026-03-05,,50,False
+202601032,Ava Lopez,5,Data Structures Intro,Homework,2026-02-05,6.0,10,True
+202600517,Benjamin Jones,3,Lists and Arrays,Homework,2026-01-22,6.0,10,True
+202600846,Elijah Gonzalez,1,Debugging Challenge,Lab,2026-01-20,20.0,20,True
+202600331,Noah Anderson,3,Lists and Arrays,Homework,2026-01-22,10.0,10,True
+202600536,Ava Gonzalez,6,Function Design,Homework,2026-02-19,8.0,10,True
+202600044,Jack Brown,1,Data Structures Intro,Homework,2026-02-05,9.0,10,True
+202600254,Ella Hernandez,1,Data Structures Intro,Homework,2026-02-05,,10,False
+202600414,Emma Garcia,2,Mini Project,Project,2026-01-29,50.0,50,True
+202600081,Daniel Garcia,6,Loops Lab,Lab,2026-02-17,15.0,20,True
+202600581,Henry Smith,5,Function Design,Homework,2026-02-19,6.0,10,True
+202600581,Henry Smith,5,Function Design,Homework,2026-01-15,8.0,10,True
+202600081,Daniel Garcia,6,Data Structures Intro,Homework,2026-02-05,7.0,10,True
+202600321,Evelyn Lopez,3,Loops Lab,Lab,2026-02-17,,20,False
+202600045,Noah Brown,1,Data Structures Intro,Homework,2026-02-05,9.0,10,True
+202600833,Liam Brown,4,Algorithm Quiz,Quiz,2026-01-27,12.0,20,True
+202601009,Emma Anderson,6,Variables Practice,Homework,2026-02-10,7.0,10,True
+202600818,Jack Martinez,4,Loops Lab,Lab,2026-02-17,19.0,20,True
+202600081,Daniel Garcia,6,Mini Project,Project,2026-01-29,47.0,50,True
+202600372,Benjamin Jones,4,Lists and Arrays,Homework,2026-01-22,9.0,10,True
+202600969,James Martinez,6,Variables Practice,Homework,2026-02-10,9.0,10,True
+202600244,Evelyn Hernandez,1,Algorithm Quiz,Quiz,2026-01-27,13.0,20,True
+202600117,Jack Smith,1,Function Design,Homework,2026-01-15,10.0,10,True
+202600977,Scarlett Miller,5,Function Design,Homework,2026-01-15,8.0,10,True
+202600368,Emma Smith,2,Loops Lab,Lab,2026-02-17,19.0,20,True
+202600254,Ella Hernandez,1,Code Tracing Quiz,Quiz,2026-02-03,14.0,20,True
+202600716,Sophia Anderson,6,Mini Project,Project,2026-01-29,38.0,50,True
+202600323,Jack Anderson,5,Data Structures Intro,Homework,2026-02-05,8.0,10,True
+202600724,Henry Miller,4,Variables Practice,Homework,2026-01-06,8.0,10,True
+202600716,Sophia Anderson,6,Loops Lab,Lab,2026-01-13,,20,False
+202600806,Emma Lopez,5,Variables Practice,Homework,2026-02-10,8.0,10,True
+202600716,Sophia Anderson,6,Debugging Challenge,Lab,2026-01-20,20.0,20,True
+202600893,Mia Hernandez,2,Lists and Arrays,Homework,2026-02-26,8.0,10,True
+202600129,Benjamin Miller,5,Code Tracing Quiz,Quiz,2026-02-03,13.0,20,True
+202600893,Mia Hernandez,2,Function Design,Homework,2026-02-19,9.0,10,True
+202600992,Jack Brown,3,Data Structures Intro,Homework,2026-02-05,9.0,10,True
+202600044,Jack Brown,1,Lists and Arrays,Homework,2026-01-22,7.0,10,True
+202600716,Sophia Anderson,6,Data Structures Intro,Homework,2026-02-05,8.0,10,True
+202600789,Amelia Williams,3,Function Design,Homework,2026-01-15,8.0,10,True
+202600323,Jack Anderson,5,Loops Lab,Lab,2026-01-13,19.0,20,True
+202600969,James Martinez,6,Conditionals Exercise,Homework,2026-01-08,8.0,10,True
+202600371,Harper Williams,6,Mini Project,Project,2026-03-05,50.0,50,True
+202600326,Scarlett Miller,4,Variables Practice,Homework,2026-01-06,9.0,10,True
+202600517,Benjamin Jones,3,Function Design,Homework,2026-02-19,8.0,10,True
+202600618,Harper Johnson,1,Conditionals Exercise,Homework,2026-02-12,6.0,10,True
+202600429,Amelia Williams,5,Algorithm Quiz,Quiz,2026-01-27,14.0,20,True
+202600834,Liam Anderson,5,Conditionals Exercise,Homework,2026-01-08,9.0,10,True
+202600975,Jack Wilson,5,Debugging Challenge,Lab,2026-01-20,18.0,20,True
+202600343,Lucas Smith,6,Lists and Arrays,Homework,2026-02-26,10.0,10,True
+202600240,Olivia Gonzalez,1,Loops Lab,Lab,2026-02-17,12.0,20,True
+202600371,Harper Williams,6,Variables Practice,Homework,2026-01-06,8.0,10,True
+202600326,Scarlett Miller,4,Variables Practice,Homework,2026-02-10,8.0,10,True
+202600581,Henry Smith,5,Variables Practice,Homework,2026-02-10,9.0,10,True
+202600229,Noah Johnson,2,Conditionals Exercise,Homework,2026-01-08,7.0,10,True
+202600297,Liam Gonzalez,2,Loops Lab,Lab,2026-02-17,16.0,20,True
+202600818,Jack Martinez,4,Algorithm Quiz,Quiz,2026-01-27,20.0,20,True
+202600429,Amelia Williams,5,Conditionals Exercise,Homework,2026-01-08,6.0,10,True
+202600731,Ella Hernandez,6,Mini Project,Project,2026-01-29,39.0,50,True
+202600818,Jack Martinez,4,Function Design,Homework,2026-02-19,9.0,10,True
+202600372,Benjamin Jones,4,Function Design,Homework,2026-02-19,8.0,10,True
+202600969,James Martinez,6,Data Structures Intro,Homework,2026-02-05,7.0,10,True
+202600806,Emma Lopez,5,Variables Practice,Homework,2026-01-06,5.0,10,True
+202600240,Olivia Gonzalez,1,Mini Project,Project,2026-03-05,32.0,50,True
+202600973,Benjamin Smith,2,Function Design,Homework,2026-02-19,7.0,10,True
+202601009,Emma Anderson,6,Conditionals Exercise,Homework,2026-02-12,7.0,10,True
+202600517,Benjamin Jones,3,Debugging Challenge,Lab,2026-01-20,17.0,20,True
+202600806,Emma Lopez,5,Code Tracing Quiz,Quiz,2026-02-03,16.0,20,True
+202600182,Charlotte Wilson,2,Mini Project,Project,2026-03-05,45.0,50,True
+202600321,Evelyn Lopez,3,Mini Project,Project,2026-01-29,50.0,50,True
+202600889,Liam Wilson,4,Debugging Challenge,Lab,2026-02-24,14.0,20,True
+202600174,Olivia Lopez,5,Mini Project,Project,2026-01-29,38.0,50,True
+202600959,Evelyn Williams,4,Debugging Challenge,Lab,2026-01-20,18.0,20,True
+202600244,Evelyn Hernandez,1,Conditionals Exercise,Homework,2026-01-08,7.0,10,True
+202600977,Scarlett Miller,5,Variables Practice,Homework,2026-01-06,7.0,10,True
+202600129,Benjamin Miller,5,Mini Project,Project,2026-03-05,42.0,50,True
+202600414,Emma Garcia,2,Loops Lab,Lab,2026-02-17,14.0,20,True
+202600117,Jack Smith,1,Debugging Challenge,Lab,2026-01-20,14.0,20,True
+202600254,Ella Hernandez,1,Loops Lab,Lab,2026-02-17,20.0,20,True
+202600834,Liam Anderson,5,Debugging Challenge,Lab,2026-02-24,11.0,20,True
+202600418,Mia Brown,3,Mini Project,Project,2026-01-29,44.0,50,True
+202600081,Daniel Garcia,6,Code Tracing Quiz,Quiz,2026-02-03,20.0,20,True
+202600429,Amelia Williams,5,Loops Lab,Lab,2026-01-13,16.0,20,True
+202600751,Jack Miller,1,Variables Practice,Homework,2026-02-10,6.0,10,True
+202600429,Amelia Williams,5,Algorithm Quiz,Quiz,2026-03-03,11.0,20,True
+202600240,Olivia Gonzalez,1,Algorithm Quiz,Quiz,2026-01-27,13.0,20,True
+202600244,Evelyn Hernandez,1,Data Structures Intro,Homework,2026-02-05,8.0,10,True
+202600414,Emma Garcia,2,Function Design,Homework,2026-01-15,10.0,10,True
+202600323,Jack Anderson,5,Variables Practice,Homework,2026-01-06,8.0,10,True
+202600833,Liam Brown,4,Mini Project,Project,2026-01-29,39.0,50,True
+202600751,Jack Miller,1,Loops Lab,Lab,2026-02-17,20.0,20,True
+202600281,Olivia Garcia,6,Lists and Arrays,Homework,2026-01-22,10.0,10,True
+202600726,James Gonzalez,3,Lists and Arrays,Homework,2026-02-26,8.0,10,True
+202600747,Lucas Anderson,4,Lists and Arrays,Homework,2026-02-26,8.0,10,True
+202600595,Sophia Anderson,2,Debugging Challenge,Lab,2026-02-24,16.0,20,True
+202600274,Emma Miller,3,Mini Project,Project,2026-03-05,32.0,50,True
+202600454,Lucas Jones,2,Conditionals Exercise,Homework,2026-02-12,10.0,10,True
+202600117,Jack Smith,1,Lists and Arrays,Homework,2026-01-22,10.0,10,True
+202600182,Charlotte Wilson,2,Variables Practice,Homework,2026-02-10,9.0,10,True
+202600182,Charlotte Wilson,2,Conditionals Exercise,Homework,2026-02-12,9.0,10,True
+202600326,Scarlett Miller,4,Debugging Challenge,Lab,2026-01-20,18.0,20,True
+202600674,Daniel Thomas,2,Code Tracing Quiz,Quiz,2026-02-03,20.0,20,True
+202600297,Liam Gonzalez,2,Algorithm Quiz,Quiz,2026-03-03,17.0,20,True
+202600846,Elijah Gonzalez,1,Variables Practice,Homework,2026-02-10,10.0,10,True
+202600675,Evelyn Martinez,5,Code Tracing Quiz,Quiz,2026-02-03,13.0,20,True
+202600959,Evelyn Williams,4,Loops Lab,Lab,2026-02-17,16.0,20,True
+202600973,Benjamin Smith,2,Data Structures Intro,Homework,2026-02-05,9.0,10,True
+202600498,Jack Smith,2,Lists and Arrays,Homework,2026-02-26,8.0,10,True
+202600081,Daniel Garcia,6,Conditionals Exercise,Homework,2026-01-08,10.0,10,True
+202600973,Benjamin Smith,2,Lists and Arrays,Homework,2026-01-22,8.0,10,True
+202600229,Noah Johnson,2,Algorithm Quiz,Quiz,2026-03-03,16.0,20,True
+202600975,Jack Wilson,5,Mini Project,Project,2026-03-05,45.0,50,True
+202600747,Lucas Anderson,4,Mini Project,Project,2026-01-29,44.0,50,True
+202600226,Harper Hernandez,5,Mini Project,Project,2026-03-05,,50,False
+202600675,Evelyn Martinez,5,Loops Lab,Lab,2026-02-17,,20,False
+202600517,Benjamin Jones,3,Function Design,Homework,2026-01-15,7.0,10,True
+202600372,Benjamin Jones,4,Algorithm Quiz,Quiz,2026-03-03,16.0,20,True
+202600274,Emma Miller,3,Loops Lab,Lab,2026-01-13,17.0,20,True
+202600711,Amelia Wilson,3,Mini Project,Project,2026-01-29,50.0,50,True
+202600859,Elijah Martinez,6,Mini Project,Project,2026-01-29,39.0,50,True
+202600992,Jack Brown,3,Lists and Arrays,Homework,2026-02-26,7.0,10,True
+202600726,James Gonzalez,3,Conditionals Exercise,Homework,2026-01-08,9.0,10,True
+202600229,Noah Johnson,2,Conditionals Exercise,Homework,2026-02-12,9.0,10,True
+202600081,Daniel Garcia,6,Function Design,Homework,2026-02-19,7.0,10,True
+202600975,Jack Wilson,5,Lists and Arrays,Homework,2026-02-26,,10,False
+202600893,Mia Hernandez,2,Debugging Challenge,Lab,2026-01-20,15.0,20,True
+202600747,Lucas Anderson,4,Debugging Challenge,Lab,2026-01-20,15.0,20,True
+202600174,Olivia Lopez,5,Function Design,Homework,2026-01-15,8.0,10,True
+202601056,Ella Thomas,6,Variables Practice,Homework,2026-01-06,7.0,10,True
+202600818,Jack Martinez,4,Algorithm Quiz,Quiz,2026-03-03,17.0,20,True
+202600726,James Gonzalez,3,Mini Project,Project,2026-03-05,38.0,50,True
+202600969,James Martinez,6,Code Tracing Quiz,Quiz,2026-02-03,16.0,20,True
+202600372,Benjamin Jones,4,Loops Lab,Lab,2026-02-17,16.0,20,True
+202600892,Mia Williams,3,Debugging Challenge,Lab,2026-01-20,18.0,20,True
+202600371,Harper Williams,6,Lists and Arrays,Homework,2026-02-26,8.0,10,True
+202600731,Ella Hernandez,6,Algorithm Quiz,Quiz,2026-03-03,20.0,20,True
+202600368,Emma Smith,2,Debugging Challenge,Lab,2026-02-24,20.0,20,True
+202600129,Benjamin Miller,5,Loops Lab,Lab,2026-02-17,13.0,20,True
+202600770,James Brown,1,Conditionals Exercise,Homework,2026-02-12,7.0,10,True
+202600595,Sophia Anderson,2,Conditionals Exercise,Homework,2026-01-08,8.0,10,True
+202600281,Olivia Garcia,6,Conditionals Exercise,Homework,2026-01-08,8.0,10,True
+202600326,Olivia Brown,4,Variables Practice,Homework,2026-02-10,8.0,10,True
+202600117,Charlotte Thomas,4,Mini Project,Project,2026-03-05,35.0,50,True
+202600117,Jack Smith,1,Debugging Challenge,Lab,2026-02-24,14.0,20,True
+202600914,Mia Hernandez,2,Variables Practice,Homework,2026-02-10,8.0,10,True
+202601016,Scarlett Thomas,4,Debugging Challenge,Lab,2026-01-20,,20,False
+202600581,Henry Smith,5,Loops Lab,Lab,2026-01-13,16.0,20,True
+202600281,Olivia Garcia,6,Mini Project,Project,2026-03-05,46.0,50,True
+202600274,Emma Miller,3,Debugging Challenge,Lab,2026-02-24,13.0,20,True
+202600846,Elijah Gonzalez,1,Algorithm Quiz,Quiz,2026-03-03,,20,False
+202600806,Emma Lopez,5,Lists and Arrays,Homework,2026-02-26,8.0,10,True
+202600973,Benjamin Smith,2,Conditionals Exercise,Homework,2026-02-12,7.0,10,True
+202600724,Henry Miller,4,Loops Lab,Lab,2026-02-17,20.0,20,True
+202600331,Noah Anderson,3,Loops Lab,Lab,2026-02-17,17.0,20,True
+202600044,Jack Brown,1,Code Tracing Quiz,Quiz,2026-02-03,17.0,20,True
+202600414,Emma Garcia,2,Data Structures Intro,Homework,2026-02-05,8.0,10,True
+202600834,Liam Anderson,5,Lists and Arrays,Homework,2026-01-22,7.0,10,True
+202600674,Daniel Thomas,2,Lists and Arrays,Homework,2026-01-22,8.0,10,True
+202600254,Ella Hernandez,1,Lists and Arrays,Homework,2026-02-26,8.0,10,True
+202600240,Olivia Gonzalez,1,Loops Lab,Lab,2026-01-13,17.0,20,True
+202600959,Evelyn Williams,4,Function Design,Homework,2026-02-19,8.0,10,True
+202601056,Ella Thomas,6,Debugging Challenge,Lab,2026-02-24,19.0,20,True
+202600536,Ava Gonzalez,6,Variables Practice,Homework,2026-02-10,8.0,10,True
+202600726,James Gonzalez,3,Data Structures Intro,Homework,2026-02-05,7.0,10,True
+202600833,Liam Brown,4,Algorithm Quiz,Quiz,2026-03-03,15.0,20,True
+202600304,Ava Wilson,1,Variables Practice,Homework,2026-01-06,7.0,10,True
+202600992,Jack Brown,3,Mini Project,Project,2026-01-29,,50,False
+202600297,Liam Gonzalez,2,Function Design,Homework,2026-01-15,8.0,10,True
+202600854,Elijah Martinez,6,Data Structures Intro,Homework,2026-02-05,10.0,10,True
+202600959,Evelyn Williams,4,Lists and Arrays,Homework,2026-02-26,8.0,10,True
+202600787,Lucas Brown,4,Conditionals Exercise,Homework,2026-01-08,9.0,10,True
+202600716,Sophia Anderson,6,Loops Lab,Lab,2026-02-17,15.0,20,True
+202601032,Ava Lopez,5,Code Tracing Quiz,Quiz,2026-02-03,16.0,20,True
+202600716,Sophia Anderson,6,Algorithm Quiz,Quiz,2026-01-27,18.0,20,True
+202600675,Evelyn Martinez,5,Lists and Arrays,Homework,2026-01-22,6.0,10,True
+202600498,Jack Smith,2,Function Design,Homework,2026-01-15,,10,False
+202600371,Harper Williams,6,Code Tracing Quiz,Quiz,2026-02-03,19.0,20,True
+202600326,Olivia Brown,4,Loops Lab,Lab,2026-02-17,11.0,20,True
+202600045,Noah Brown,1,Conditionals Exercise,Homework,2026-02-12,7.0,10,True
+202600281,Olivia Garcia,6,Debugging Challenge,Lab,2026-02-24,18.0,20,True
+202600833,Liam Brown,4,Variables Practice,Homework,2026-02-10,9.0,10,True
+202600914,Mia Hernandez,2,Conditionals Exercise,Homework,2026-02-12,9.0,10,True
+202600859,Elijah Martinez,6,Loops Lab,Lab,2026-02-17,16.0,20,True
+202600297,Liam Gonzalez,2,Variables Practice,Homework,2026-01-06,8.0,10,True
+202600724,Henry Miller,4,Code Tracing Quiz,Quiz,2026-02-03,16.0,20,True
+202600859,Elijah Martinez,6,Code Tracing Quiz,Quiz,2026-02-03,19.0,20,True
+202600174,Olivia Lopez,5,Algorithm Quiz,Quiz,2026-01-27,17.0,20,True
+202600297,Liam Gonzalez,2,Algorithm Quiz,Quiz,2026-01-27,19.0,20,True
+202600595,Sophia Anderson,2,Code Tracing Quiz,Quiz,2026-02-03,17.0,20,True
+202600372,Benjamin Jones,4,Code Tracing Quiz,Quiz,2026-02-03,20.0,20,True
+202600726,James Gonzalez,3,Function Design,Homework,2026-01-15,,10,False
+202600117,Charlotte Thomas,4,Lists and Arrays,Homework,2026-01-22,7.0,10,True
+202600959,Evelyn Williams,4,Variables Practice,Homework,2026-01-06,8.0,10,True
+202600326,Scarlett Miller,4,Code Tracing Quiz,Quiz,2026-02-03,16.0,20,True
+202600536,Ava Gonzalez,6,Algorithm Quiz,Quiz,2026-01-27,16.0,20,True
+202600846,Elijah Gonzalez,1,Lists and Arrays,Homework,2026-01-22,9.0,10,True
+202600226,Harper Hernandez,5,Mini Project,Project,2026-01-29,38.0,50,True
+202600229,Noah Johnson,2,Data Structures Intro,Homework,2026-02-05,6.0,10,True
+202600618,Harper Johnson,1,Data Structures Intro,Homework,2026-02-05,10.0,10,True
+202600914,Mia Hernandez,2,Code Tracing Quiz,Quiz,2026-02-03,14.0,20,True
+202600892,Mia Williams,3,Data Structures Intro,Homework,2026-02-05,5.0,10,True
+202600914,Mia Hernandez,2,Function Design,Homework,2026-01-15,5.0,10,True
+202600281,Olivia Garcia,6,Function Design,Homework,2026-01-15,7.0,10,True
+202600711,Amelia Wilson,3,Algorithm Quiz,Quiz,2026-01-27,18.0,20,True
+202600664,Emma Johnson,1,Lists and Arrays,Homework,2026-02-26,8.0,10,True
+202600372,Benjamin Jones,4,Mini Project,Project,2026-03-05,46.0,50,True
+202600716,Sophia Anderson,6,Algorithm Quiz,Quiz,2026-03-03,19.0,20,True
+202600117,Jack Smith,1,Conditionals Exercise,Homework,2026-01-08,10.0,10,True
+202600692,Elijah Martinez,3,Algorithm Quiz,Quiz,2026-01-27,13.0,20,True
+202600368,Emma Smith,2,Conditionals Exercise,Homework,2026-01-08,10.0,10,True
+202601009,Emma Anderson,6,Lists and Arrays,Homework,2026-01-22,9.0,10,True
+202600959,Evelyn Williams,4,Function Design,Homework,2026-01-15,9.0,10,True
+202600226,Harper Hernandez,5,Code Tracing Quiz,Quiz,2026-02-03,17.0,20,True
+202600429,Amelia Williams,5,Debugging Challenge,Lab,2026-02-24,20.0,20,True
+202600304,Ava Wilson,1,Loops Lab,Lab,2026-02-17,18.0,20,True
+202600674,Daniel Thomas,2,Function Design,Homework,2026-02-19,8.0,10,True
+202600787,Lucas Brown,4,Mini Project,Project,2026-01-29,40.0,50,True
+202601032,Ava Lopez,5,Lists and Arrays,Homework,2026-02-26,8.0,10,True
+202600045,Noah Brown,1,Variables Practice,Homework,2026-01-06,7.0,10,True
+202600859,Elijah Martinez,6,Function Design,Homework,2026-02-19,7.0,10,True
+202600692,Elijah Martinez,3,Algorithm Quiz,Quiz,2026-03-03,18.0,20,True
+202600711,Amelia Wilson,3,Conditionals Exercise,Homework,2026-01-08,9.0,10,True
+202600368,Emma Smith,2,Conditionals Exercise,Homework,2026-02-12,7.0,10,True
+202600240,Olivia Gonzalez,1,Function Design,Homework,2026-02-19,8.0,10,True
+202600770,James Brown,1,Lists and Arrays,Homework,2026-01-22,9.0,10,True
+202600692,Elijah Martinez,3,Loops Lab,Lab,2026-01-13,15.0,20,True
+202600326,Olivia Brown,4,Code Tracing Quiz,Quiz,2026-02-03,18.0,20,True
+202600724,Henry Miller,4,Mini Project,Project,2026-01-29,45.0,50,True
+202600892,Mia Williams,3,Lists and Arrays,Homework,2026-01-22,8.0,10,True
+202600536,Ava Gonzalez,6,Mini Project,Project,2026-01-29,46.0,50,True
+202600372,Benjamin Jones,4,Mini Project,Project,2026-01-29,30.0,50,True
+202600674,Daniel Thomas,2,Conditionals Exercise,Homework,2026-02-12,9.0,10,True
+202600914,Mia Hernandez,2,Debugging Challenge,Lab,2026-01-20,18.0,20,True
+202600892,Mia Williams,3,Variables Practice,Homework,2026-02-10,8.0,10,True
+202600182,Charlotte Wilson,2,Algorithm Quiz,Quiz,2026-03-03,,20,False
+202600834,Liam Anderson,5,Variables Practice,Homework,2026-01-06,7.0,10,True
+202600787,Lucas Brown,4,Function Design,Homework,2026-02-19,10.0,10,True
+202600618,Harper Johnson,1,Function Design,Homework,2026-02-19,,10,False
+202600343,Lucas Smith,6,Function Design,Homework,2026-01-15,6.0,10,True
+202600893,Mia Hernandez,2,Data Structures Intro,Homework,2026-02-05,9.0,10,True
+202600726,James Gonzalez,3,Mini Project,Project,2026-01-29,40.0,50,True
+202600331,Noah Anderson,3,Variables Practice,Homework,2026-02-10,8.0,10,True
+202600229,Noah Johnson,2,Debugging Challenge,Lab,2026-01-20,15.0,20,True
+202600834,Liam Anderson,5,Mini Project,Project,2026-03-05,46.0,50,True
+202600846,Elijah Gonzalez,1,Algorithm Quiz,Quiz,2026-01-27,19.0,20,True
+202600846,Elijah Gonzalez,1,Lists and Arrays,Homework,2026-02-26,6.0,10,True
+202600834,Liam Anderson,5,Loops Lab,Lab,2026-01-13,18.0,20,True
+202601000,Noah Hernandez,3,Function Design,Homework,2026-02-19,8.0,10,True
+202600414,Emma Garcia,2,Debugging Challenge,Lab,2026-02-24,16.0,20,True
+202600304,Ava Wilson,1,Conditionals Exercise,Homework,2026-02-12,7.0,10,True
+202600859,Elijah Martinez,6,Algorithm Quiz,Quiz,2026-03-03,18.0,20,True
+202601000,Noah Hernandez,3,Debugging Challenge,Lab,2026-02-24,14.0,20,True
+202600368,Emma Smith,2,Debugging Challenge,Lab,2026-01-20,17.0,20,True
+202600959,Evelyn Williams,4,Code Tracing Quiz,Quiz,2026-02-03,19.0,20,True
+202600914,Mia Hernandez,2,Algorithm Quiz,Quiz,2026-01-27,15.0,20,True
+202600331,Noah Anderson,3,Function Design,Homework,2026-01-15,,10,False
+202600595,Sophia Anderson,2,Variables Practice,Homework,2026-01-06,10.0,10,True
+202600806,Emma Lopez,5,Debugging Challenge,Lab,2026-02-24,17.0,20,True
+202600281,Olivia Garcia,6,Code Tracing Quiz,Quiz,2026-02-03,14.0,20,True
+202600326,Olivia Brown,4,Function Design,Homework,2026-02-19,7.0,10,True
+202600833,Liam Brown,4,Variables Practice,Homework,2026-01-06,9.0,10,True
+202600833,Liam Brown,4,Code Tracing Quiz,Quiz,2026-02-03,18.0,20,True
+202600711,Amelia Wilson,3,Lists and Arrays,Homework,2026-01-22,9.0,10,True
+202600977,Scarlett Miller,5,Conditionals Exercise,Homework,2026-01-08,9.0,10,True
+202600893,Mia Hernandez,2,Mini Project,Project,2026-03-05,46.0,50,True
+202600240,Olivia Gonzalez,1,Variables Practice,Homework,2026-01-06,8.0,10,True
+202600726,James Gonzalez,3,Conditionals Exercise,Homework,2026-02-12,10.0,10,True
+202601009,Emma Anderson,6,Mini Project,Project,2026-03-05,40.0,50,True
+202600536,Ava Gonzalez,6,Loops Lab,Lab,2026-01-13,16.0,20,True
+202600254,Ella Hernandez,1,Mini Project,Project,2026-03-05,41.0,50,True
+202600414,Emma Garcia,2,Conditionals Exercise,Homework,2026-01-08,10.0,10,True
+202600418,Mia Brown,3,Conditionals Exercise,Homework,2026-02-12,,10,False
+202600281,Olivia Garcia,6,Mini Project,Project,2026-01-29,31.0,50,True
+202600536,Ava Gonzalez,6,Conditionals Exercise,Homework,2026-01-08,9.0,10,True
+202600372,Benjamin Jones,4,Function Design,Homework,2026-01-15,9.0,10,True
+202600859,Elijah Martinez,6,Loops Lab,Lab,2026-01-13,,20,False
+202600834,Liam Anderson,5,Variables Practice,Homework,2026-02-10,6.0,10,True
+202600343,Lucas Smith,6,Loops Lab,Lab,2026-01-13,12.0,20,True
+202600117,Charlotte Thomas,4,Loops Lab,Lab,2026-01-13,16.0,20,True
+202600429,Amelia Williams,5,Data Structures Intro,Homework,2026-02-05,6.0,10,True
+202600716,Sophia Anderson,6,Conditionals Exercise,Homework,2026-01-08,8.0,10,True
+202600044,Jack Brown,1,Mini Project,Project,2026-01-29,37.0,50,True
+202600770,James Brown,1,Algorithm Quiz,Quiz,2026-03-03,19.0,20,True
+202600536,Ava Gonzalez,6,Variables Practice,Homework,2026-01-06,7.0,10,True
+202600770,James Brown,1,Loops Lab,Lab,2026-02-17,13.0,20,True
+202600331,Noah Anderson,3,Mini Project,Project,2026-01-29,43.0,50,True
+202600973,Benjamin Smith,2,Conditionals Exercise,Homework,2026-01-08,9.0,10,True
+202600818,Jack Martinez,4,Debugging Challenge,Lab,2026-01-20,15.0,20,True
+202600517,Benjamin Jones,3,Loops Lab,Lab,2026-02-17,19.0,20,True
+202601016,Scarlett Thomas,4,Loops Lab,Lab,2026-02-17,16.0,20,True
+202600992,Jack Brown,3,Function Design,Homework,2026-01-15,9.0,10,True
+202600429,Amelia Williams,5,Code Tracing Quiz,Quiz,2026-02-03,14.0,20,True
+202600854,Elijah Martinez,6,Function Design,Homework,2026-02-19,7.0,10,True
+202600914,Mia Hernandez,2,Function Design,Homework,2026-02-19,,10,False
+202600674,Daniel Thomas,2,Variables Practice,Homework,2026-02-10,8.0,10,True
+202600724,Henry Miller,4,Loops Lab,Lab,2026-01-13,15.0,20,True
+202600581,Henry Smith,5,Conditionals Exercise,Homework,2026-01-08,7.0,10,True
+202600240,Olivia Gonzalez,1,Lists and Arrays,Homework,2026-01-22,8.0,10,True
+202601009,Emma Anderson,6,Mini Project,Project,2026-01-29,43.0,50,True
+202600454,Lucas Jones,2,Algorithm Quiz,Quiz,2026-01-27,17.0,20,True
+202600429,Amelia Williams,5,Variables Practice,Homework,2026-02-10,8.0,10,True
+202600343,Lucas Smith,6,Conditionals Exercise,Homework,2026-02-12,7.0,10,True
+202600787,Lucas Brown,4,Loops Lab,Lab,2026-01-13,,20,False
+202600969,James Martinez,6,Mini Project,Project,2026-01-29,38.0,50,True
+202601032,Ava Lopez,5,Conditionals Exercise,Homework,2026-02-12,8.0,10,True
+202600664,Emma Johnson,1,Data Structures Intro,Homework,2026-02-05,8.0,10,True
+202600959,Evelyn Williams,4,Mini Project,Project,2026-01-29,39.0,50,True
+202600326,Olivia Brown,4,Data Structures Intro,Homework,2026-02-05,7.0,10,True
+202600664,Emma Johnson,1,Loops Lab,Lab,2026-02-17,16.0,20,True
+202600117,Jack Smith,1,Conditionals Exercise,Homework,2026-02-12,6.0,10,True
+202600595,Sophia Anderson,2,Function Design,Homework,2026-02-19,9.0,10,True
+202600254,Ella Hernandez,1,Debugging Challenge,Lab,2026-01-20,17.0,20,True
+202600854,Elijah Martinez,6,Conditionals Exercise,Homework,2026-02-12,7.0,10,True
+202600787,Lucas Brown,4,Code Tracing Quiz,Quiz,2026-02-03,17.0,20,True
+202600789,Amelia Williams,3,Lists and Arrays,Homework,2026-02-26,,10,False
+202600859,Elijah Martinez,6,Lists and Arrays,Homework,2026-02-26,7.0,10,True
+202600747,Lucas Anderson,4,Function Design,Homework,2026-02-19,8.0,10,True
+202600664,Emma Johnson,1,Variables Practice,Homework,2026-02-10,10.0,10,True
+202601032,Ava Lopez,5,Algorithm Quiz,Quiz,2026-01-27,20.0,20,True
+202600371,Harper Williams,6,Algorithm Quiz,Quiz,2026-01-27,,20,False
+202600787,Lucas Brown,4,Data Structures Intro,Homework,2026-02-05,7.0,10,True
+202600675,Evelyn Martinez,5,Variables Practice,Homework,2026-02-10,7.0,10,True
+202600418,Mia Brown,3,Variables Practice,Homework,2026-02-10,9.0,10,True
+202600274,Emma Miller,3,Code Tracing Quiz,Quiz,2026-02-03,14.0,20,True
+202600045,Noah Brown,1,Lists and Arrays,Homework,2026-02-26,7.0,10,True
+202600117,Charlotte Thomas,4,Conditionals Exercise,Homework,2026-02-12,8.0,10,True
+202600045,Noah Brown,1,Loops Lab,Lab,2026-02-17,15.0,20,True
+202600326,Scarlett Miller,4,Debugging Challenge,Lab,2026-02-24,15.0,20,True
+202600833,Liam Brown,4,Data Structures Intro,Homework,2026-02-05,9.0,10,True
+202600517,Benjamin Jones,3,Algorithm Quiz,Quiz,2026-03-03,15.0,20,True
+202600454,Lucas Jones,2,Code Tracing Quiz,Quiz,2026-02-03,17.0,20,True
+202600726,James Gonzalez,3,Debugging Challenge,Lab,2026-01-20,17.0,20,True
+202600331,Noah Anderson,3,Algorithm Quiz,Quiz,2026-03-03,20.0,20,True
+202600045,Noah Brown,1,Debugging Challenge,Lab,2026-02-24,19.0,20,True
+202600806,Emma Lopez,5,Function Design,Homework,2026-01-15,7.0,10,True
+202600536,Ava Gonzalez,6,Code Tracing Quiz,Quiz,2026-02-03,17.0,20,True
+202600326,Olivia Brown,4,Mini Project,Project,2026-01-29,43.0,50,True
+202601056,Ella Thomas,6,Loops Lab,Lab,2026-02-17,15.0,20,True
+202601009,Emma Anderson,6,Function Design,Homework,2026-02-19,9.0,10,True
+202601056,Ella Thomas,6,Algorithm Quiz,Quiz,2026-01-27,16.0,20,True
+202600414,Emma Garcia,2,Debugging Challenge,Lab,2026-01-20,17.0,20,True
+202600418,Mia Brown,3,Code Tracing Quiz,Quiz,2026-02-03,16.0,20,True
+202600343,Lucas Smith,6,Debugging Challenge,Lab,2026-02-24,17.0,20,True
+202600229,Noah Johnson,2,Mini Project,Project,2026-01-29,46.0,50,True
+202600454,Lucas Jones,2,Lists and Arrays,Homework,2026-02-26,7.0,10,True
+202600893,Mia Hernandez,2,Loops Lab,Lab,2026-01-13,,20,False
+202600331,Noah Anderson,3,Debugging Challenge,Lab,2026-01-20,17.0,20,True
+202600833,Liam Brown,4,Conditionals Exercise,Homework,2026-02-12,8.0,10,True
+202600343,Lucas Smith,6,Variables Practice,Homework,2026-01-06,9.0,10,True
+202600806,Emma Lopez,5,Loops Lab,Lab,2026-01-13,,20,False
+202600044,Jack Brown,1,Debugging Challenge,Lab,2026-01-20,19.0,20,True
+202600418,Mia Brown,3,Debugging Challenge,Lab,2026-02-24,15.0,20,True
+202600044,Jack Brown,1,Function Design,Homework,2026-02-19,8.0,10,True
+202600304,Ava Wilson,1,Debugging Challenge,Lab,2026-01-20,15.0,20,True
+202600281,Olivia Garcia,6,Variables Practice,Homework,2026-01-06,7.0,10,True
+202600045,Noah Brown,1,Lists and Arrays,Homework,2026-01-22,9.0,10,True
+202600893,Mia Hernandez,2,Variables Practice,Homework,2026-02-10,6.0,10,True
+202601056,Ella Thomas,6,Mini Project,Project,2026-01-29,27.0,50,True
+202600818,Jack Martinez,4,Variables Practice,Homework,2026-01-06,6.0,10,True
+202600414,Emma Garcia,2,Algorithm Quiz,Quiz,2026-03-03,16.0,20,True
+202600326,Scarlett Miller,4,Algorithm Quiz,Quiz,2026-01-27,15.0,20,True
+202600889,Liam Wilson,4,Conditionals Exercise,Homework,2026-01-08,,10,False
+202600254,Ella Hernandez,1,Loops Lab,Lab,2026-01-13,16.0,20,True
+202600747,Lucas Anderson,4,Variables Practice,Homework,2026-02-10,9.0,10,True
+202600581,Henry Smith,5,Lists and Arrays,Homework,2026-02-26,7.0,10,True
+202600889,Liam Wilson,4,Variables Practice,Homework,2026-01-06,9.0,10,True
+202600226,Harper Hernandez,5,Algorithm Quiz,Quiz,2026-03-03,19.0,20,True
+202600343,Lucas Smith,6,Algorithm Quiz,Quiz,2026-01-27,15.0,20,True
+202600581,Henry Smith,5,Algorithm Quiz,Quiz,2026-03-03,16.0,20,True
+202600244,Evelyn Hernandez,1,Function Design,Homework,2026-02-19,8.0,10,True
+202600331,Noah Anderson,3,Loops Lab,Lab,2026-01-13,16.0,20,True
+202600117,Charlotte Thomas,4,Variables Practice,Homework,2026-01-06,7.0,10,True
+202600893,Mia Hernandez,2,Lists and Arrays,Homework,2026-01-22,10.0,10,True
+202600977,Scarlett Miller,5,Lists and Arrays,Homework,2026-02-26,8.0,10,True
+202600893,Mia Hernandez,2,Algorithm Quiz,Quiz,2026-03-03,16.0,20,True
+202600731,Ella Hernandez,6,Conditionals Exercise,Homework,2026-02-12,9.0,10,True
+202600846,Elijah Gonzalez,1,Debugging Challenge,Lab,2026-02-24,18.0,20,True
+202600581,Henry Smith,5,Loops Lab,Lab,2026-02-17,19.0,20,True
+202601032,Ava Lopez,5,Loops Lab,Lab,2026-02-17,16.0,20,True
+202600806,Emma Lopez,5,Loops Lab,Lab,2026-02-17,18.0,20,True
+202600692,Elijah Martinez,3,Lists and Arrays,Homework,2026-02-26,6.0,10,True
+202600498,Jack Smith,2,Lists and Arrays,Homework,2026-01-22,7.0,10,True
+202600969,James Martinez,6,Mini Project,Project,2026-03-05,36.0,50,True
+202600731,Ella Hernandez,6,Code Tracing Quiz,Quiz,2026-02-03,,20,False
+202600045,Noah Brown,1,Mini Project,Project,2026-03-05,35.0,50,True
+202600726,James Gonzalez,3,Debugging Challenge,Lab,2026-02-24,18.0,20,True
+202600751,Jack Miller,1,Mini Project,Project,2026-03-05,42.0,50,True
+202600977,Scarlett Miller,5,Lists and Arrays,Homework,2026-01-22,8.0,10,True
+202600129,Benjamin Miller,5,Conditionals Exercise,Homework,2026-01-08,9.0,10,True
+202600174,Olivia Lopez,5,Debugging Challenge,Lab,2026-01-20,15.0,20,True
+202600240,Olivia Gonzalez,1,Mini Project,Project,2026-01-29,32.0,50,True
+202600992,Jack Brown,3,Variables Practice,Homework,2026-02-10,9.0,10,True
+202600806,Emma Lopez,5,Lists and Arrays,Homework,2026-01-22,9.0,10,True
+202601016,Scarlett Thomas,4,Data Structures Intro,Homework,2026-02-05,7.0,10,True
+202600226,Harper Hernandez,5,Variables Practice,Homework,2026-01-06,9.0,10,True
+202600240,Olivia Gonzalez,1,Conditionals Exercise,Homework,2026-02-12,7.0,10,True
+202600244,Evelyn Hernandez,1,Lists and Arrays,Homework,2026-01-22,8.0,10,True
+202600429,Amelia Williams,5,Conditionals Exercise,Homework,2026-02-12,8.0,10,True
+202600751,Jack Miller,1,Data Structures Intro,Homework,2026-02-05,9.0,10,True
+202600787,Lucas Brown,4,Debugging Challenge,Lab,2026-02-24,,20,False
+202601000,Noah Hernandez,3,Loops Lab,Lab,2026-01-13,20.0,20,True
+202600536,Ava Gonzalez,6,Lists and Arrays,Homework,2026-02-26,9.0,10,True
+202600044,Jack Brown,1,Conditionals Exercise,Homework,2026-02-12,9.0,10,True
+202600969,James Martinez,6,Loops Lab,Lab,2026-02-17,15.0,20,True
+202601016,Scarlett Thomas,4,Code Tracing Quiz,Quiz,2026-02-03,18.0,20,True
+202600326,Olivia Brown,4,Variables Practice,Homework,2026-01-06,8.0,10,True
+202600595,Sophia Anderson,2,Function Design,Homework,2026-01-15,,10,False
+202600182,Charlotte Wilson,2,Lists and Arrays,Homework,2026-02-26,7.0,10,True
+202600326,Olivia Brown,4,Algorithm Quiz,Quiz,2026-03-03,17.0,20,True
+202600770,James Brown,1,Data Structures Intro,Homework,2026-02-05,9.0,10,True
+202600692,Elijah Martinez,3,Loops Lab,Lab,2026-02-17,17.0,20,True
+202600304,Ava Wilson,1,Conditionals Exercise,Homework,2026-01-08,,10,False
+202600973,Benjamin Smith,2,Loops Lab,Lab,2026-01-13,16.0,20,True
+202600854,Elijah Martinez,6,Conditionals Exercise,Homework,2026-01-08,7.0,10,True
+202600711,Amelia Wilson,3,Conditionals Exercise,Homework,2026-02-12,7.0,10,True
+202600254,Ella Hernandez,1,Variables Practice,Homework,2026-01-06,5.0,10,True
+202600731,Ella Hernandez,6,Variables Practice,Homework,2026-01-06,7.0,10,True
+202600454,Lucas Jones,2,Debugging Challenge,Lab,2026-01-20,20.0,20,True
+202600893,Mia Hernandez,2,Loops Lab,Lab,2026-02-17,16.0,20,True
+202600893,Mia Hernandez,2,Algorithm Quiz,Quiz,2026-01-27,14.0,20,True
+202600731,Ella Hernandez,6,Function Design,Homework,2026-01-15,7.0,10,True
+202600281,Olivia Garcia,6,Function Design,Homework,2026-02-19,9.0,10,True
+202600711,Amelia Wilson,3,Variables Practice,Homework,2026-01-06,8.0,10,True
+202600226,Harper Hernandez,5,Lists and Arrays,Homework,2026-01-22,6.0,10,True
+202600789,Amelia Williams,3,Code Tracing Quiz,Quiz,2026-02-03,17.0,20,True
+202600117,Jack Smith,1,Loops Lab,Lab,2026-02-17,13.0,20,True
+202600859,Elijah Martinez,6,Variables Practice,Homework,2026-02-10,8.0,10,True
+202601000,Noah Hernandez,3,Function Design,Homework,2026-01-15,9.0,10,True
+202600834,Liam Anderson,5,Algorithm Quiz,Quiz,2026-03-03,19.0,20,True
+202600454,Lucas Jones,2,Algorithm Quiz,Quiz,2026-03-03,16.0,20,True
+202600331,Noah Anderson,3,Debugging Challenge,Lab,2026-02-24,15.0,20,True
+202600517,Benjamin Jones,3,Mini Project,Project,2026-03-05,34.0,50,True
+202600182,Charlotte Wilson,2,Data Structures Intro,Homework,2026-02-05,10.0,10,True
+202600892,Mia Williams,3,Conditionals Exercise,Homework,2026-02-12,10.0,10,True
+202600429,Amelia Williams,5,Function Design,Homework,2026-01-15,9.0,10,True
+202600297,Liam Gonzalez,2,Lists and Arrays,Homework,2026-02-26,7.0,10,True
+202600174,Olivia Lopez,5,Lists and Arrays,Homework,2026-01-22,9.0,10,True
+202601016,Scarlett Thomas,4,Function Design,Homework,2026-01-15,9.0,10,True
+202600117,Jack Smith,1,Mini Project,Project,2026-01-29,34.0,50,True
+202600321,Evelyn Lopez,3,Conditionals Exercise,Homework,2026-01-08,10.0,10,True
+202600711,Amelia Wilson,3,Variables Practice,Homework,2026-02-10,7.0,10,True
+202600675,Evelyn Martinez,5,Mini Project,Project,2026-01-29,40.0,50,True
+202600977,Scarlett Miller,5,Algorithm Quiz,Quiz,2026-01-27,16.0,20,True
+202600854,Elijah Martinez,6,Lists and Arrays,Homework,2026-02-26,4.0,10,True
+202600226,Harper Hernandez,5,Loops Lab,Lab,2026-02-17,17.0,20,True
+202600244,Evelyn Hernandez,1,Conditionals Exercise,Homework,2026-02-12,10.0,10,True
+202600254,Ella Hernandez,1,Lists and Arrays,Homework,2026-01-22,8.0,10,True
+202600973,Benjamin Smith,2,Code Tracing Quiz,Quiz,2026-02-03,19.0,20,True
+202600418,Mia Brown,3,Mini Project,Project,2026-03-05,43.0,50,True
+202600117,Jack Smith,1,Loops Lab,Lab,2026-01-13,20.0,20,True
+202600182,Charlotte Wilson,2,Function Design,Homework,2026-02-19,8.0,10,True
+202600454,Lucas Jones,2,Mini Project,Project,2026-03-05,49.0,50,True
+202600973,Benjamin Smith,2,Variables Practice,Homework,2026-01-06,8.0,10,True
+202600182,Charlotte Wilson,2,Function Design,Homework,2026-01-15,6.0,10,True
+202600595,Sophia Anderson,2,Data Structures Intro,Homework,2026-02-05,10.0,10,True
+202600240,Olivia Gonzalez,1,Function Design,Homework,2026-01-15,9.0,10,True
+202600711,Amelia Wilson,3,Mini Project,Project,2026-03-05,37.0,50,True
+202600674,Daniel Thomas,2,Variables Practice,Homework,2026-01-06,9.0,10,True
+202600674,Daniel Thomas,2,Loops Lab,Lab,2026-01-13,18.0,20,True
+202600244,Evelyn Hernandez,1,Code Tracing Quiz,Quiz,2026-02-03,15.0,20,True
+202600969,James Martinez,6,Loops Lab,Lab,2026-01-13,16.0,20,True
+202600331,Noah Anderson,3,Conditionals Exercise,Homework,2026-01-08,7.0,10,True
+202601032,Ava Lopez,5,Variables Practice,Homework,2026-02-10,8.0,10,True
+202600274,Emma Miller,3,Lists and Arrays,Homework,2026-01-22,8.0,10,True
+202600304,Ava Wilson,1,Debugging Challenge,Lab,2026-02-24,17.0,20,True
+202600854,Elijah Martinez,6,Lists and Arrays,Homework,2026-01-22,6.0,10,True
+202600716,Sophia Anderson,6,Lists and Arrays,Homework,2026-02-26,8.0,10,True
+202600182,Charlotte Wilson,2,Mini Project,Project,2026-01-29,46.0,50,True
+202600789,Amelia Williams,3,Debugging Challenge,Lab,2026-01-20,15.0,20,True
+202600893,Mia Hernandez,2,Variables Practice,Homework,2026-01-06,7.0,10,True
+202601032,Ava Lopez,5,Loops Lab,Lab,2026-01-13,,20,False
+202600770,James Brown,1,Function Design,Homework,2026-01-15,8.0,10,True
+202600751,Jack Miller,1,Lists and Arrays,Homework,2026-02-26,9.0,10,True
+202600664,Emma Johnson,1,Lists and Arrays,Homework,2026-01-22,8.0,10,True
+202601009,Emma Anderson,6,Data Structures Intro,Homework,2026-02-05,9.0,10,True
+202600889,Liam Wilson,4,Conditionals Exercise,Homework,2026-02-12,8.0,10,True
+202600429,Amelia Williams,5,Debugging Challenge,Lab,2026-01-20,19.0,20,True
+202600959,Evelyn Williams,4,Debugging Challenge,Lab,2026-02-24,13.0,20,True
+202600343,Lucas Smith,6,Mini Project,Project,2026-03-05,42.0,50,True
+202600372,Benjamin Jones,4,Variables Practice,Homework,2026-02-10,8.0,10,True
+202600675,Evelyn Martinez,5,Conditionals Exercise,Homework,2026-01-08,7.0,10,True
+202600716,Sophia Anderson,6,Debugging Challenge,Lab,2026-02-24,14.0,20,True
+202601056,Ella Thomas,6,Loops Lab,Lab,2026-01-13,17.0,20,True
+202601009,Emma Anderson,6,Algorithm Quiz,Quiz,2026-03-03,20.0,20,True
+202600664,Emma Johnson,1,Debugging Challenge,Lab,2026-01-20,14.0,20,True
+202600321,Evelyn Lopez,3,Lists and Arrays,Homework,2026-02-26,6.0,10,True
+202600129,Benjamin Miller,5,Mini Project,Project,2026-01-29,48.0,50,True
+202600174,Olivia Lopez,5,Loops Lab,Lab,2026-01-13,18.0,20,True
+202600846,Elijah Gonzalez,1,Mini Project,Project,2026-03-05,35.0,50,True
+202600498,Jack Smith,2,Variables Practice,Homework,2026-01-06,8.0,10,True
+202600429,Amelia Williams,5,Variables Practice,Homework,2026-01-06,6.0,10,True
+202600977,Scarlett Miller,5,Debugging Challenge,Lab,2026-02-24,17.0,20,True
+202600240,Olivia Gonzalez,1,Lists and Arrays,Homework,2026-02-26,9.0,10,True
+202600229,Noah Johnson,2,Loops Lab,Lab,2026-02-17,20.0,20,True
+202600326,Olivia Brown,4,Conditionals Exercise,Homework,2026-01-08,,10,False
+202600226,Harper Hernandez,5,Conditionals Exercise,Homework,2026-02-12,8.0,10,True
+202600854,Elijah Martinez,6,Mini Project,Project,2026-01-29,50.0,50,True
+202600454,Lucas Jones,2,Mini Project,Project,2026-01-29,44.0,50,True
+202600240,Olivia Gonzalez,1,Algorithm Quiz,Quiz,2026-03-03,18.0,20,True
+202600731,Ella Hernandez,6,Conditionals Exercise,Homework,2026-01-08,7.0,10,True
+202600787,Lucas Brown,4,Debugging Challenge,Lab,2026-01-20,17.0,20,True
+202600321,Evelyn Lopez,3,Debugging Challenge,Lab,2026-02-24,15.0,20,True
+202600117,Charlotte Thomas,4,Conditionals Exercise,Homework,2026-01-08,9.0,10,True
+202601000,Noah Hernandez,3,Algorithm Quiz,Quiz,2026-01-27,19.0,20,True
+202600731,Ella Hernandez,6,Algorithm Quiz,Quiz,2026-01-27,20.0,20,True
+202600498,Jack Smith,2,Code Tracing Quiz,Quiz,2026-02-03,17.0,20,True
+202600254,Ella Hernandez,1,Debugging Challenge,Lab,2026-02-24,18.0,20,True
+202600498,Jack Smith,2,Algorithm Quiz,Quiz,2026-01-27,13.0,20,True
+202600368,Emma Smith,2,Lists and Arrays,Homework,2026-01-22,9.0,10,True
+202600368,Emma Smith,2,Mini Project,Project,2026-01-29,48.0,50,True
+202600326,Scarlett Miller,4,Conditionals Exercise,Homework,2026-02-12,,10,False
+202600281,Olivia Garcia,6,Lists and Arrays,Homework,2026-02-26,8.0,10,True
+202600498,Jack Smith,2,Loops Lab,Lab,2026-02-17,16.0,20,True
+202600789,Amelia Williams,3,Algorithm Quiz,Quiz,2026-03-03,17.0,20,True
+202600731,Ella Hernandez,6,Lists and Arrays,Homework,2026-01-22,9.0,10,True
+202600973,Benjamin Smith,2,Algorithm Quiz,Quiz,2026-01-27,16.0,20,True
+202600274,Emma Miller,3,Loops Lab,Lab,2026-02-17,12.0,20,True
+202600731,Ella Hernandez,6,Data Structures Intro,Homework,2026-02-05,8.0,10,True
+202600304,Ava Wilson,1,Data Structures Intro,Homework,2026-02-05,8.0,10,True
+202600595,Sophia Anderson,2,Mini Project,Project,2026-01-29,47.0,50,True
+202600969,James Martinez,6,Function Design,Homework,2026-02-19,9.0,10,True
+202600418,Mia Brown,3,Lists and Arrays,Homework,2026-01-22,8.0,10,True
+202600716,Sophia Anderson,6,Function Design,Homework,2026-01-15,7.0,10,True
+202600977,Scarlett Miller,5,Loops Lab,Lab,2026-01-13,15.0,20,True
+202600581,Henry Smith,5,Debugging Challenge,Lab,2026-01-20,16.0,20,True
+202600323,Jack Anderson,5,Function Design,Homework,2026-02-19,9.0,10,True
+202600711,Amelia Wilson,3,Loops Lab,Lab,2026-02-17,20.0,20,True
+202600833,Liam Brown,4,Loops Lab,Lab,2026-02-17,15.0,20,True
+202600343,Lucas Smith,6,Loops Lab,Lab,2026-02-17,16.0,20,True
+202600044,Jack Brown,1,Variables Practice,Homework,2026-02-10,8.0,10,True
+202600889,Liam Wilson,4,Variables Practice,Homework,2026-02-10,7.0,10,True
+202600174,Olivia Lopez,5,Data Structures Intro,Homework,2026-02-05,7.0,10,True
+202600331,Noah Anderson,3,Data Structures Intro,Homework,2026-02-05,8.0,10,True
+202600789,Amelia Williams,3,Conditionals Exercise,Homework,2026-02-12,8.0,10,True
+202600045,Noah Brown,1,Conditionals Exercise,Homework,2026-01-08,7.0,10,True
+202600675,Evelyn Martinez,5,Algorithm Quiz,Quiz,2026-01-27,16.0,20,True
+202600787,Lucas Brown,4,Variables Practice,Homework,2026-01-06,10.0,10,True
+202600806,Emma Lopez,5,Conditionals Exercise,Homework,2026-02-12,7.0,10,True
+202600751,Jack Miller,1,Lists and Arrays,Homework,2026-01-22,8.0,10,True
+202600081,Daniel Garcia,6,Conditionals Exercise,Homework,2026-02-12,10.0,10,True
+202600724,Henry Miller,4,Lists and Arrays,Homework,2026-02-26,7.0,10,True
+202600274,Emma Miller,3,Function Design,Homework,2026-02-19,9.0,10,True
+202600854,Elijah Martinez,6,Variables Practice,Homework,2026-01-06,,10,False
+202600326,Scarlett Miller,4,Loops Lab,Lab,2026-01-13,18.0,20,True
+202600889,Liam Wilson,4,Loops Lab,Lab,2026-01-13,16.0,20,True
+202600747,Lucas Anderson,4,Conditionals Exercise,Homework,2026-01-08,8.0,10,True
+202600726,James Gonzalez,3,Loops Lab,Lab,2026-01-13,,20,False
+202600973,Benjamin Smith,2,Lists and Arrays,Homework,2026-02-26,8.0,10,True
+202600323,Jack Anderson,5,Mini Project,Project,2026-01-29,,50,False
+202600892,Mia Williams,3,Function Design,Homework,2026-01-15,8.0,10,True
+202600326,Olivia Brown,4,Function Design,Homework,2026-01-15,10.0,10,True
+202600045,Noah Brown,1,Code Tracing Quiz,Quiz,2026-02-03,16.0,20,True
+202600664,Emma Johnson,1,Conditionals Exercise,Homework,2026-01-08,,10,False
+202600959,Evelyn Williams,4,Algorithm Quiz,Quiz,2026-01-27,20.0,20,True
+202601032,Ava Lopez,5,Algorithm Quiz,Quiz,2026-03-03,16.0,20,True
+202600787,Lucas Brown,4,Variables Practice,Homework,2026-02-10,10.0,10,True
+202600711,Amelia Wilson,3,Debugging Challenge,Lab,2026-01-20,18.0,20,True
+202600618,Harper Johnson,1,Mini Project,Project,2026-01-29,37.0,50,True
+202600914,Mia Hernandez,2,Loops Lab,Lab,2026-01-13,15.0,20,True
+202600818,Jack Martinez,4,Lists and Arrays,Homework,2026-01-22,9.0,10,True
+202601056,Ella Thomas,6,Function Design,Homework,2026-02-19,8.0,10,True
+202600893,Mia Hernandez,2,Debugging Challenge,Lab,2026-02-24,20.0,20,True
+202600372,Benjamin Jones,4,Lists and Arrays,Homework,2026-02-26,8.0,10,True
+202601000,Noah Hernandez,3,Conditionals Exercise,Homework,2026-01-08,8.0,10,True
+202601000,Noah Hernandez,3,Lists and Arrays,Homework,2026-02-26,9.0,10,True
+202600726,James Gonzalez,3,Loops Lab,Lab,2026-02-17,16.0,20,True
+202600323,Jack Anderson,5,Algorithm Quiz,Quiz,2026-01-27,19.0,20,True
+202600711,Amelia Wilson,3,Lists and Arrays,Homework,2026-02-26,8.0,10,True
+202600806,Emma Lopez,5,Mini Project,Project,2026-01-29,45.0,50,True
+202600418,Mia Brown,3,Algorithm Quiz,Quiz,2026-03-03,17.0,20,True
+202600326,Olivia Brown,4,Lists and Arrays,Homework,2026-02-26,10.0,10,True
+202600724,Henry Miller,4,Algorithm Quiz,Quiz,2026-03-03,13.0,20,True
+202600174,Olivia Lopez,5,Loops Lab,Lab,2026-02-17,14.0,20,True
+202600751,Jack Miller,1,Loops Lab,Lab,2026-01-13,13.0,20,True
+202600129,Benjamin Miller,5,Lists and Arrays,Homework,2026-02-26,10.0,10,True
+202600117,Jack Smith,1,Algorithm Quiz,Quiz,2026-01-27,15.0,20,True
+202600854,Elijah Martinez,6,Variables Practice,Homework,2026-02-10,9.0,10,True
+202600664,Emma Johnson,1,Mini Project,Project,2026-01-29,45.0,50,True
+202600045,Noah Brown,1,Variables Practice,Homework,2026-02-10,8.0,10,True
+202600081,Daniel Garcia,6,Mini Project,Project,2026-03-05,50.0,50,True
+202600117,Charlotte Thomas,4,Function Design,Homework,2026-02-19,7.0,10,True
+202600893,Mia Hernandez,2,Mini Project,Project,2026-01-29,40.0,50,True
+202600975,Jack Wilson,5,Algorithm Quiz,Quiz,2026-03-03,15.0,20,True
+202600818,Jack Martinez,4,Variables Practice,Homework,2026-02-10,9.0,10,True
+202600297,Liam Gonzalez,2,Loops Lab,Lab,2026-01-13,20.0,20,True
+202600304,Ava Wilson,1,Algorithm Quiz,Quiz,2026-01-27,12.0,20,True
+202601000,Noah Hernandez,3,Variables Practice,Homework,2026-01-06,,10,False
+202600770,James Brown,1,Function Design,Homework,2026-02-19,8.0,10,True
+202600675,Evelyn Martinez,5,Function Design,Homework,2026-01-15,9.0,10,True
+202600692,Elijah Martinez,3,Variables Practice,Homework,2026-02-10,8.0,10,True
+202600789,Amelia Williams,3,Mini Project,Project,2026-03-05,50.0,50,True
+202600674,Daniel Thomas,2,Debugging Challenge,Lab,2026-01-20,,20,False
+202600281,Olivia Garcia,6,Loops Lab,Lab,2026-01-13,16.0,20,True
+202600833,Liam Brown,4,Debugging Challenge,Lab,2026-02-24,16.0,20,True
+202600081,Daniel Garcia,6,Algorithm Quiz,Quiz,2026-01-27,,20,False
+202600536,Ava Gonzalez,6,Debugging Challenge,Lab,2026-02-24,17.0,20,True
+202600969,James Martinez,6,Algorithm Quiz,Quiz,2026-01-27,20.0,20,True
+202600371,Harper Williams,6,Loops Lab,Lab,2026-01-13,20.0,20,True
+202600675,Evelyn Martinez,5,Lists and Arrays,Homework,2026-02-26,9.0,10,True
+202600692,Elijah Martinez,3,Mini Project,Project,2026-01-29,39.0,50,True
+202600618,Harper Johnson,1,Loops Lab,Lab,2026-02-17,20.0,20,True
+202600226,Harper Hernandez,5,Data Structures Intro,Homework,2026-02-05,8.0,10,True
+202600297,Liam Gonzalez,2,Debugging Challenge,Lab,2026-01-20,15.0,20,True
+202600117,Charlotte Thomas,4,Algorithm Quiz,Quiz,2026-03-03,17.0,20,True
+202600726,James Gonzalez,3,Variables Practice,Homework,2026-02-10,10.0,10,True
+202600975,Jack Wilson,5,Lists and Arrays,Homework,2026-01-22,8.0,10,True
+202600226,Harper Hernandez,5,Debugging Challenge,Lab,2026-02-24,16.0,20,True
+202600834,Liam Anderson,5,Conditionals Exercise,Homework,2026-02-12,9.0,10,True
+202600226,Harper Hernandez,5,Debugging Challenge,Lab,2026-01-20,11.0,20,True
+202600229,Noah Johnson,2,Lists and Arrays,Homework,2026-01-22,,10,False
+202600731,Ella Hernandez,6,Loops Lab,Lab,2026-01-13,18.0,20,True
+202600892,Mia Williams,3,Lists and Arrays,Homework,2026-02-26,8.0,10,True
+202600726,James Gonzalez,3,Lists and Arrays,Homework,2026-01-22,7.0,10,True
+202601000,Noah Hernandez,3,Data Structures Intro,Homework,2026-02-05,8.0,10,True
+202600371,Harper Williams,6,Mini Project,Project,2026-01-29,43.0,50,True
+202600321,Evelyn Lopez,3,Mini Project,Project,2026-03-05,42.0,50,True
+202600692,Elijah Martinez,3,Conditionals Exercise,Homework,2026-02-12,7.0,10,True
+202600692,Elijah Martinez,3,Data Structures Intro,Homework,2026-02-05,10.0,10,True
+202600747,Lucas Anderson,4,Loops Lab,Lab,2026-01-13,17.0,20,True
+202600833,Liam Brown,4,Function Design,Homework,2026-01-15,8.0,10,True
+202601056,Ella Thomas,6,Conditionals Exercise,Homework,2026-02-12,,10,False
+202600618,Harper Johnson,1,Code Tracing Quiz,Quiz,2026-02-03,20.0,20,True
+202600454,Lucas Jones,2,Loops Lab,Lab,2026-02-17,16.0,20,True
+202600536,Ava Gonzalez,6,Function Design,Homework,2026-01-15,8.0,10,True
+202600414,Emma Garcia,2,Mini Project,Project,2026-03-05,46.0,50,True
+202600174,Olivia Lopez,5,Algorithm Quiz,Quiz,2026-03-03,,20,False
+202600889,Liam Wilson,4,Algorithm Quiz,Quiz,2026-01-27,19.0,20,True
+202600664,Emma Johnson,1,Algorithm Quiz,Quiz,2026-01-27,16.0,20,True
+202600770,James Brown,1,Debugging Challenge,Lab,2026-01-20,17.0,20,True
+202600973,Benjamin Smith,2,Debugging Challenge,Lab,2026-02-24,18.0,20,True
+202601000,Noah Hernandez,3,Mini Project,Project,2026-01-29,43.0,50,True
+202601032,Ava Lopez,5,Function Design,Homework,2026-02-19,9.0,10,True
+202600992,Jack Brown,3,Algorithm Quiz,Quiz,2026-03-03,15.0,20,True
+202600959,Evelyn Williams,4,Loops Lab,Lab,2026-01-13,12.0,20,True
+202600372,Benjamin Jones,4,Variables Practice,Homework,2026-01-06,7.0,10,True
+202600806,Emma Lopez,5,Data Structures Intro,Homework,2026-02-05,10.0,10,True
+202600343,Lucas Smith,6,Lists and Arrays,Homework,2026-01-22,10.0,10,True
+202600129,Benjamin Miller,5,Function Design,Homework,2026-01-15,7.0,10,True
+202600724,Henry Miller,4,Conditionals Exercise,Homework,2026-02-12,7.0,10,True
+202600787,Lucas Brown,4,Algorithm Quiz,Quiz,2026-01-27,,20,False
+202600975,Jack Wilson,5,Loops Lab,Lab,2026-02-17,15.0,20,True
+202600889,Liam Wilson,4,Code Tracing Quiz,Quiz,2026-02-03,13.0,20,True
+202600372,Benjamin Jones,4,Conditionals Exercise,Homework,2026-01-08,9.0,10,True
+202600498,Jack Smith,2,Algorithm Quiz,Quiz,2026-03-03,14.0,20,True
+202600977,Scarlett Miller,5,Mini Project,Project,2026-01-29,41.0,50,True
+202600618,Harper Johnson,1,Function Design,Homework,2026-01-15,7.0,10,True
+202600892,Mia Williams,3,Mini Project,Project,2026-03-05,,50,False
+202600834,Liam Anderson,5,Code Tracing Quiz,Quiz,2026-02-03,15.0,20,True
+202600789,Amelia Williams,3,Variables Practice,Homework,2026-02-10,8.0,10,True
+202600846,Elijah Gonzalez,1,Conditionals Exercise,Homework,2026-01-08,10.0,10,True
+202600244,Evelyn Hernandez,1,Loops Lab,Lab,2026-02-17,19.0,20,True
+202601056,Ella Thomas,6,Variables Practice,Homework,2026-02-10,9.0,10,True
+202600975,Jack Wilson,5,Conditionals Exercise,Homework,2026-01-08,7.0,10,True
+202600418,Mia Brown,3,Algorithm Quiz,Quiz,2026-01-27,16.0,20,True
+202600959,Evelyn Williams,4,Lists and Arrays,Homework,2026-01-22,8.0,10,True
+202600326,Scarlett Miller,4,Mini Project,Project,2026-01-29,46.0,50,True
+202600326,Olivia Brown,4,Mini Project,Project,2026-03-05,41.0,50,True
+202600536,Ava Gonzalez,6,Mini Project,Project,2026-03-05,41.0,50,True
+202600129,Benjamin Miller,5,Loops Lab,Lab,2026-01-13,15.0,20,True
+202600834,Liam Anderson,5,Data Structures Intro,Homework,2026-02-05,9.0,10,True
+202600174,Olivia Lopez,5,Lists and Arrays,Homework,2026-02-26,10.0,10,True
+202600787,Lucas Brown,4,Lists and Arrays,Homework,2026-01-22,9.0,10,True
+202601009,Emma Anderson,6,Function Design,Homework,2026-01-15,7.0,10,True
+202600846,Elijah Gonzalez,1,Code Tracing Quiz,Quiz,2026-02-03,18.0,20,True
+202600274,Emma Miller,3,Conditionals Exercise,Homework,2026-01-08,9.0,10,True
+202600454,Lucas Jones,2,Data Structures Intro,Homework,2026-02-05,7.0,10,True
+202600304,Ava Wilson,1,Function Design,Homework,2026-02-19,6.0,10,True
+202601000,Noah Hernandez,3,Conditionals Exercise,Homework,2026-02-12,10.0,10,True
+202600240,Olivia Gonzalez,1,Data Structures Intro,Homework,2026-02-05,7.0,10,True
+202600343,Lucas Smith,6,Data Structures Intro,Homework,2026-02-05,7.0,10,True
+202600454,Lucas Jones,2,Variables Practice,Homework,2026-02-10,9.0,10,True
+202600044,Jack Brown,1,Debugging Challenge,Lab,2026-02-24,15.0,20,True
+202601009,Emma Anderson,6,Debugging Challenge,Lab,2026-01-20,17.0,20,True
+202600854,Elijah Martinez,6,Algorithm Quiz,Quiz,2026-03-03,16.0,20,True
+202600692,Elijah Martinez,3,Conditionals Exercise,Homework,2026-01-08,10.0,10,True
+202600323,Jack Anderson,5,Debugging Challenge,Lab,2026-02-24,18.0,20,True
+202600274,Emma Miller,3,Debugging Challenge,Lab,2026-01-20,18.0,20,True
+202600244,Evelyn Hernandez,1,Loops Lab,Lab,2026-01-13,16.0,20,True
+202600770,James Brown,1,Lists and Arrays,Homework,2026-02-26,8.0,10,True
+202601016,Scarlett Thomas,4,Conditionals Exercise,Homework,2026-01-08,8.0,10,True
+202600711,Amelia Wilson,3,Function Design,Homework,2026-02-19,,10,False
+202600992,Jack Brown,3,Debugging Challenge,Lab,2026-01-20,19.0,20,True
+202600331,Noah Anderson,3,Lists and Arrays,Homework,2026-02-26,8.0,10,True
+202600517,Benjamin Jones,3,Lists and Arrays,Homework,2026-02-26,7.0,10,True
+202600959,Evelyn Williams,4,Data Structures Intro,Homework,2026-02-05,6.0,10,True
+202600281,Olivia Garcia,6,Conditionals Exercise,Homework,2026-02-12,7.0,10,True
+202600724,Henry Miller,4,Conditionals Exercise,Homework,2026-01-08,8.0,10,True
+202600747,Lucas Anderson,4,Data Structures Intro,Homework,2026-02-05,,10,False
+202601032,Ava Lopez,5,Function Design,Homework,2026-01-15,8.0,10,True
+202600692,Elijah Martinez,3,Debugging Challenge,Lab,2026-02-24,16.0,20,True
+202600859,Elijah Martinez,6,Data Structures Intro,Homework,2026-02-05,7.0,10,True
+202600174,Olivia Lopez,5,Code Tracing Quiz,Quiz,2026-02-03,,20,False
+202600724,Henry Miller,4,Lists and Arrays,Homework,2026-01-22,8.0,10,True
+202600724,Henry Miller,4,Function Design,Homework,2026-02-19,8.0,10,True
+202600889,Liam Wilson,4,Debugging Challenge,Lab,2026-01-20,20.0,20,True
+202600892,Mia Williams,3,Code Tracing Quiz,Quiz,2026-02-03,19.0,20,True
+202600711,Amelia Wilson,3,Code Tracing Quiz,Quiz,2026-02-03,20.0,20,True
+202600323,Jack Anderson,5,Conditionals Exercise,Homework,2026-01-08,8.0,10,True
+202601016,Scarlett Thomas,4,Mini Project,Project,2026-01-29,,50,False
+202600498,Jack Smith,2,Data Structures Intro,Homework,2026-02-05,9.0,10,True
+202600818,Jack Martinez,4,Mini Project,Project,2026-03-05,50.0,50,True
+202600854,Elijah Martinez,6,Mini Project,Project,2026-03-05,45.0,50,True
+202600973,Benjamin Smith,2,Variables Practice,Homework,2026-02-10,7.0,10,True
+202600244,Evelyn Hernandez,1,Variables Practice,Homework,2026-01-06,7.0,10,True
