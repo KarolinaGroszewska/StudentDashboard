@@ -10,7 +10,7 @@ def class_performance(df: pd.DataFrame) -> pd.DataFrame:
     return performance
 
 def assignment_performance(df: pd.DataFrame) -> pd.DataFrame:
-    performance = df.groupby("assignment_id").agg(
+    performance = df.groupby("assignment_type").agg(
         avg_score=pd.NamedAgg(column="percent", aggfunc="mean"),
         total_submissions=pd.NamedAgg(column="student_id", aggfunc="count"),
         missing_submissions=pd.NamedAgg(column="is_missing", aggfunc="sum")
