@@ -12,5 +12,4 @@ def get_student_summary(df):
         total_assignments=pd.NamedAgg(column="assignment_type", aggfunc="count"),
         missing_assignments=pd.NamedAgg(column="is_missing", aggfunc="sum")
     ).reset_index()
-    summary["at_risk"] = (summary["avg_score"] < 70) | (summary["missing_assignments"] > 2)
     return summary
