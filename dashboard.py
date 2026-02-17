@@ -22,3 +22,11 @@ def load_data() -> pd.DataFrame:
 
 df = load_data()
 student_summary = get_student_summary(df)
+
+st.title("Student Performance Dashboard")
+st.header("Class Performance Overview")
+
+col1, col2, col3 = st.columns(3)
+col1.metric("Total Students", student_summary.shape[0])
+col2.metric("Average Score", f"{student_summary['avg_score'].mean():.2f}%")
+col3.metric("At Risk Students", student_summary['at_risk'].sum())
