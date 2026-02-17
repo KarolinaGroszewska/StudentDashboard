@@ -5,8 +5,6 @@ import plotly.express as px
 # Modules
 from src.clean_data import clean_data
 from src.features import add_features, add_risk_levels, get_student_summary
-from src.analytics import class_performance, assignment_performance, class_trends
-
 
 st.set_page_config(
     page_title="Student Performance Dashboard", 
@@ -66,28 +64,7 @@ col2.metric("Assignments Submitted", f"{assignment_count - missing_count} / {ass
 col3.metric("Missing Assignments", missing_count)
 col4.metric("Risk Level", risk_level)
 
-st.subheader(f"Assignment Details for {student_summary[student_summary['student_id'] == selected_student_id]['student_name'].iloc[0]}")
 
-student_table = student_df[
-    [
-        "date",
-        "assignment_name",
-        "assignment_type",
-        "percent"
-    ]
-].sort_values("date", ascending=False)
-
-student_table["percent"] = student_table["percent"].round(2)
-student_table["date"] = pd.to_datetime(student_table["date"]).dt.strftime("%m-%d-%Y")
-
-student_table = student_table.rename(columns={
-    "date": "Date",
-    "assignment_name": "Assignment Name",
-    "assignment_type": "Assignment Type",
-    "percent": "Score (%)"
-})
-
-st.dataframe(student_table, use_container_width=True)
 
 st.subheader(f"Performance over Time for {student_summary[student_summary['student_id'] == selected_student_id]['student_name'].iloc[0]}")
 
@@ -121,54 +98,84 @@ fig_student.update_layout(
 )
 st.plotly_chart(fig_student, use_container_width=True)
 
+st.subheader("Performance by Assignment Type")
+
+type_perf = (
+    student_df.groupby("assignment_type")["percent"]
+    .mean()
+    .reset_index()
+)
+
+fig_type = px.bar(
+    type_perf,
+    x="assignment_type",
+    y="percent",
+    title="Average Score by Assignment Type",
+    color="assignment_type",
+    labels={"percent": "Average Score"}
+)
+
+st.plotly_chart(fig_type, use_container_width=True)
+
+st.subheader("Recent Performance Trends")
+recent_df = student_df.sort_values("date", ascending=False).head(10)
+recent_df["date"] = pd.to_datetime(recent_df["date"]).dt.strftime("%m-%d-%Y")
+recent_avg = recent_df["percent"].mean()
+overall_avg = student_df["percent"].mean()
+diff = recent_avg - overall_avg
+if diff > 5:
+    st.success(f"Recent performance is improving! Recent Avg: {recent_avg:.2f}% vs Overall Avg: {overall_avg:.2f}%")
+elif diff < -5:
+    st.warning(f"Recent performance is declining. Recent Avg: {recent_avg:.2f}% vs Overall Avg: {overall_avg:.2f}%")
+else:
+    st.info(f"Recent performance is stable. Recent Avg: {recent_avg:.2f}% vs Overall Avg: {overall_avg:.2f}%")
 
 
-# st.header("Class Performance by Period")
-# class_perf = class_performance(df)
-# fig_class = px.bar(
-#     class_perf,
-#     x="class_period",
-#     y="avg_score",
-#     title="Average Performance by Class Period",
-#     labels={"class_period": "Class Period", "avg_score": "Average Score (%)"},
-#     text_auto=".2f",
-#     color="class_period",  # Use class_period for color differentiation
-#     color_discrete_sequence=px.colors.qualitative.Plotly  # Set a color sequence
-# )
-# st.plotly_chart(fig_class, use_container_width=True)
+st.subheader("Missing Assignments")
 
-# trend_df = class_trends(df)
-# fig_trend = px.line(
-#     trend_df,
-#     x="date",
-#     y="avg_score",
-#     color="class_period",
-#     color_discrete_sequence=px.colors.qualitative.Plotly,
-#     title="Class Performance Trends Over Time",
-#     labels={"date": "Date", "avg_score": "Average Score (%)", "class_period": "Class Period"}
-# )
-# fig_trend.update_layout(
-#     yaxis=dict(range=[-5, 105]),
-#     xaxis_title="Date",
-#     yaxis_title="Average Score (%)",
-#     legend_title="Class Period"
-# )
-# st.plotly_chart(fig_trend, use_container_width=True)
+missing_df = student_df[student_df["is_missing"] == True]
 
-# st.header("Assignment Performance by Type")
-# assignment_perf = assignment_performance(df)
-# fig_assignment = px.bar(
-#     assignment_perf,
-#     x="assignment_type",
-#     y="avg_score",
-#     title="Average Performance by Assignment Type",
-#     labels={"assignment_type": "Assignment Type", "avg_score": "Average Score (%)"},
-#     text_auto=".2f",
-#     color="assignment_type",  # Use assignment_type for color differentiation
-#     color_discrete_sequence=px.colors.qualitative.Plotly  # Set a color sequence
-# )
-# st.plotly_chart(fig_assignment, use_container_width=True)
+if missing_df.empty:
 
-# st.header("Raw Student Data")
-# with st.expander("Show Raw Data"):
-#     st.dataframe(df)
+    st.success("No missing assignments!")
+
+else:
+    missing_df["date"] = pd.to_datetime(missing_df["date"]).dt.strftime("%m-%d-%Y")
+    missing_table = missing_df[
+        [
+            "date",
+            "assignment_name",
+            "assignment_type"
+        ]
+    ].sort_values("date")
+
+    missing_table = missing_table.rename(columns={
+        "date": "Date",
+        "assignment_name": "Assignment",
+        "assignment_type": "Type"
+    })
+
+    st.dataframe(missing_table, use_container_width=True)
+
+st.subheader(f"Assignment Details for {student_summary[student_summary['student_id'] == selected_student_id]['student_name'].iloc[0]}")
+
+student_table = student_df[
+    [
+        "date",
+        "assignment_name",
+        "assignment_type",
+        "percent"
+    ]
+].sort_values("date", ascending=False)
+
+student_table["percent"] = student_table["percent"].round(2)
+student_table["date"] = pd.to_datetime(student_table["date"]).dt.strftime("%m-%d-%Y")
+
+student_table = student_table.rename(columns={
+    "date": "Date",
+    "assignment_name": "Assignment Name",
+    "assignment_type": "Assignment Type",
+    "percent": "Score (%)"
+})
+
+st.dataframe(student_table, use_container_width=True)
